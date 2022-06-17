@@ -1,0 +1,46 @@
+{
+    "id": "instiki-18",
+    "title": [
+        "SISTEM MONITORING KARYAWAN DENGAN METODE LBS (LOCATION BASED SERVICE) BERBASIS ANDROID"
+    ],
+    "creator": [
+        "Hayati, Lilis Nur"
+    ],
+    "subject": [
+        "Employees",
+        "LBS (Location Based Service)",
+        "Monitoring"
+    ],
+    "description": [
+        "Company management has right to hope for its employees to respect&nbsp; reasonable standard of ethical code. The employees who act inappropriately or out of ordinary can damage business. It is very dangerous if management believes that every employee has the same view with him. Therefore, one of the best ways to clarify about what is expected by management towards its employees is making general work rules. Then it needs a monitoring system that is by designing an employee Monitoring System Application by detecting its position with the LBS (Location Based Service) method based on Android and implementing the method.\nThe purpose of this study is helping the leaders for workforce section to control the existence and position of its employees, making it easier for leaders to make decisions and discipline employees at work. The benefits of this study that is this system can control the employees in absent from work. Useful as material for employee evaluation in jobs whether in accordance with working hours determined by a company. The system becomes a monitoring control tool for the employees."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 2 No. 1 (2019): Jurnal RESISTOR Edisi April 2019; 61-66",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v2i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2019-04-21"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2019 Lilis Nur Hayati"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/347\/146"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

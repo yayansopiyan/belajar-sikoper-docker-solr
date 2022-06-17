@@ -1,0 +1,49 @@
+{
+    "id": "instiki-27",
+    "title": [
+        "ANALISIS KINERJA INTERNET OF THINGS BERBASIS FIREBASE REAL-TIME DATABASE"
+    ],
+    "creator": [
+        "Hartawan, I Nyoman Buda",
+        "Sudiarsa, I Wayan"
+    ],
+    "subject": [
+        "Internet of Things",
+        "Firebase",
+        "Lighting Control Remotely",
+        "ESP8266",
+        "Real-time database"
+    ],
+    "description": [
+        "Internet of Things (IoT) technology makes it possible to monitor and control environmental conditions and electronic devices remotely via the internet. To be used as a monitoring and control tool, the IoT must be able to be operated in realtime. IoT must be able to provide information about an environmental condition and control electronic devices in real time. In this study a remote lighting control system was built using Firebase as a database that is able to turn on\/off lights in realtime. The system is built using NodeMCU ESP8266 and android applications so that it is easier to implement on smartphones. The purpose of this study is to perform a performance analysis of firebase as a database that is able to update data in real time via the internet. Testing is done using various types of network connections such as 3G networks, 4G networks, and Local Area Networks (LANs). The test results show that Firebase supports the application of IoT that is capable of updating data in realtime, but the type of network connection used provides a varied delay effect. The average delay generated on 3G networks, 4G networks and LANs is 3.57 seconds, 1.42 seconds and 1.4 seconds."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 2 No. 1 (2019): Jurnal RESISTOR Edisi April 2019; 6-17",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v2i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2019-04-21"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2019 I Nyoman Buda Hartawan, I Wayan Sudiarsa"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/371\/142"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

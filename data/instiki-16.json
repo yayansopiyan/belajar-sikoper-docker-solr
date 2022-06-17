@@ -1,0 +1,49 @@
+{
+    "id": "instiki-16",
+    "title": [
+        "ANALISA DAN PROBLEM SOLVING KEAMANAN ROUTER MIKROTIK RB750RA DAN RB750GR3 DENGAN METODE PENETRATION TESTING (STUDI KASUS: WARNET AULIA.NET, TANJUNG HARAPAN  LAMPUNG TIMUR)"
+    ],
+    "creator": [
+        "Hidayat, Arif",
+        "Saputra, Ismail Puji"
+    ],
+    "subject": [
+        "security mikrotik",
+        "winbox POC",
+        "mikrotik router",
+        "hacking",
+        "penetration testing"
+    ],
+    "description": [
+        "Information and communication technology is something that is difficult to separate from human life in the present era. One example of information and communication technology is a network of proxy routers. This study uses the penetration testing method, which aims to analyze the security system of the proxy router that has been applied to Warnet Aulia.net. In analyzing network security, the Mikrotik Router is done by the method of penetration testing where the form of attacks on the network is simulated. In this study Python and Winboxpoc.py were successfully run on the Windows 10 operating system. The results of this study indicate that the network security owned by the Aulia.net cafe network still has many gaps to exploit. As for the results of some attacks, it shows serious things in terms of exploitation, such as the output of getting a proxy router password and username. Therefore, this study also provides a solution on how to prevent the mikrotik router from being exploited. Problem solving is explained using several alternative solutions, so that practitioners or network technicians are expected to be able to utilize knowledge related to the results of this study in order to secure the router."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 1 No. 2 (2018): Jurnal RESISTOR Edisi Oktober 2018; 118-124",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v1i2"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2018-10-28"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2018 Arif Hidayat, Ismail Puji Saputra"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/323\/122"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

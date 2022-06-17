@@ -1,0 +1,50 @@
+{
+    "id": "instiki-75",
+    "title": [
+        "ANALISIS KINERJA SERVER ELEARNING UNTUK PEMBELAJARAN SYNCHRONOUS BERBASIS BIG BLUE BUTTON DALAM  MENDUKUNG PEMBELAJARAN DI MASA COVID-19"
+    ],
+    "creator": [
+        "Hartawan, I Nyoman Buda",
+        "Subawa, I Putu Agus Yogi"
+    ],
+    "subject": [
+        "Big Blue Button",
+        "Covid-19",
+        "Elearning",
+        "Moodle",
+        "Teleconference"
+    ],
+    "description": [
+        "COVID-19 has an impact on education which requires students to study from home. Teachers carry out teaching remotely via an internet connection so that learning activities that should be carried out at school can still run. The learning process is necessary to conduct live sessions via teleconference. The Big Blue Button is an alternative application to support the online learning process, especially in conducting live sessions. This study aims to analyze the Big Blue Button as a teleconference application to support learning activities online. Implementation is done by integrating the Big Blue Button with Moodle as a Learning Management System (LMS) Moodle. The test was done by conducting a teleconference simulation involving 42 students. The test results show the Big Blue Button can be used to support online learning activities and can be accessed well by 42 students simultaneously using either a PC or a mobile device."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 4 No. 1 (2021): Jurnal RESISTOR Edisi April 2021; 78-84",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v4i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2021-04-21"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2021 I Nyoman Buda Hartawan",
+        "https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/715\/286"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

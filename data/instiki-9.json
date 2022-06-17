@@ -1,0 +1,48 @@
+{
+    "id": "instiki-9",
+    "title": [
+        "IMPLEMENTASI TEKNIK DEEP PACKET INSPECTION DENGAN MENGGUNAKAN WIRESHARK PADA SISTEM OPERASI UBUNTU: Studi Kasus : Intranet Jurusan Teknologi Informasi Universitas Udayana"
+    ],
+    "creator": [
+        "Pratama, I Putu Agus Eka",
+        "Dharmesta, Putu Adhika"
+    ],
+    "subject": [
+        "deep packet inspection",
+        "intranet",
+        "paket data",
+        "wireshark linux ubuntu"
+    ],
+    "description": [
+        "Deep Packet Inspection (DPI) is a technique commonly used by network administrator to be able to monitor in detail the flow of data in the form of data packets that occur at that moment. This data stream will produce an information that can be used for network management purposes. One example of a case study that can be done with this technique is the intranet that is available in Information Technology major Udayana University\u00e2\u20ac\u2122s. Deep Packet Inspection Technique is done with purpose to identifying the initial slowing down of network speed on Information Technology major Udayana University\u00e2\u20ac\u2122s."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 1 No. 2 (2018): Jurnal RESISTOR Edisi Oktober 2018; 79-85",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v1i2"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2018-10-28"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2018 I Putu Agus Eka Pratama, Putu Adhika Dharmesta"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/274\/117"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "instiki-61",
+    "title": [
+        "PENGIRIMAN DATA NRF24L01+ DENGAN KONDISI LINE OF SIGHT DAN NON LINE OF SIGHT"
+    ],
+    "creator": [
+        "Desnanjaya, I Gusti Made Ngurah",
+        "Alfian, Mohammad Dwi"
+    ],
+    "subject": [
+        "WSN",
+        "nRF24L01 ",
+        "line of sight",
+        "non line of sight"
+    ],
+    "description": [
+        "Wireless Sensor Network is a wireless network technology that includes sensor nodes and embedded systems. WSN has several advantages: it is cheaper for large-scale applications, can withstand extreme environments, and data transmission is relatively more stable. One of the WSN devices is nRF24L01+. Within the specifications given, the maximum communication distance is 1.1 km. However, the most effective distance for transmitting data in line of sight and non-line of sight is still unknown. Therefore, testing and analysis are needed so that the nRF24L01+ device can be used optimally for communication and data transmission. Through testing analysis on nRF24L01+ line of sight, Kuta beach location in Bali and non-line of sight on the STMIK STIKOM Indonesia campus. The effective communication distance of the nRF24L01+ module in line of sight is between 1 and 1000 meters. The distance of 1000 meters is the limit of the effective distance for sending data, and the packet loss rate is less than 15% which is included in the medium category. Meanwhile, in the non-line of sight, the effective distance of the nRF24L01+ communication module is 20 meters, and the packet loss is close to 15%, which is a moderate level limit. With the analysis module, nRF24L01+ can be a reference in determining the effective distance on WSN nRF24L01+ in determining remote control equipment data communication."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 3 No. 2 (2020): Jurnal RESISTOR Edisi Oktober 2020; 128-139",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v3i2"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2020-10-28"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2020 I Gusti Made Ngurah Desnanjaya, Mohammad Dwi Alfian",
+        "https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/663\/232"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

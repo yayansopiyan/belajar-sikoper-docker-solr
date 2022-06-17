@@ -1,0 +1,50 @@
+{
+    "id": "instiki-92",
+    "title": [
+        "PENGUJIAN PENGEMBANGAN TERHADAP ALGORITMA  VIGENERE KEY KRIPTOGRAFI"
+    ],
+    "creator": [
+        "Danuputri, Chyquitha",
+        "Santosa, Nico",
+        "Samuel, Fernando Dedi"
+    ],
+    "subject": [
+        "Keamanan Data",
+        "Vinegere Key",
+        "Kriptografi",
+        "Python"
+    ],
+    "description": [
+        "The process of digital communication through media that is already integrated with the internet requires a security system in order to prevent confidential data from being acquired by unauthorized third parties and misused by these third parties. In order not to know the confidentiality of the data, techniques and algorithms are needed that can make secret messages not understand the meaning of the secret message. One of the data security techniques is cryptography, which can scramble the arrangement of characters that humans understand into characters that are not understood by humans with various languages. This research is the development of the Vigenere Key Kriptography algorithm for the encryption and decryption process in text messages that include all the characters on the computer keyboard keys. The results of the encryption will be in the form of a.txt file which contains cipher text and the results of the decryption will be plain text that appears in the application text box and the test uses the Python programming language. This research can produce cryptographic techniques that can produce ciphertext of all characters on the computer keyboard keys and can scramble text so that it cannot be understood by human language for data security"
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 5 No. 1 (2022): Jurnal RESISTOR Edisi April 2022; 26-37",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v5i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2022-04-21"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2022 Chyquitha Danuputri, Nico Santosa, Fernando Dedi Samuel",
+        "https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/822\/332"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "instiki-41",
+    "title": [
+        "SISTEM PENDUKUNG KEPUTUSAN PEMILIHAN PESERTA OLIMPIADE MIPA TINGKAT SD MENGGUNAKAN METODE SIMPLE ADDITIVE WEIGHTING"
+    ],
+    "creator": [
+        "Hayati, Lilis Nur",
+        "Ansari, Ansari",
+        "Anugrah, Rezky"
+    ],
+    "subject": [
+        "Simple Addative Weighting, ",
+        "Support System",
+        "Mathematics And Natural Sciences Olympiad"
+    ],
+    "description": [
+        "The Mathematics and Natural Sciences Olympiad is a competition event that aims to hone as well as provide students in the fields of Mathematics and Natural Sciences. The selection of prospective participants to attend the year event at each school has their own suggestions and methods.&nbsp; Based on the above the authors conducted a study of a computer-based system for the development of participant selection methods, using simple additive weighting methods and using 6 proposals such as mathematics tests, science tests, average report cards, discipline, activeness, and honesty in give weight. After conducting the testing and testing process on the support system decision on the selection of candidates for Mathematics and Natural Sciences Olympiad level elementary school students to use simple additive weighting method in SDN 2 Melayu, the result is a capable system provide recommendations for potential participants who are entitled to participate Olympic with 75% confidence level."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 3 No. 2 (2020): Jurnal RESISTOR Edisi Oktober 2020; 82-88",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v3i2"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2020-10-28"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2020 Lilis Nur Hayati, Ansari Ansari, Rezky Anugrah",
+        "https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/571\/233"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

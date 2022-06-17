@@ -1,0 +1,49 @@
+{
+    "id": "instiki-4",
+    "title": [
+        "Analisis Rendering Video Animasi 3D Menggunakan Aplikasi Blender Berbasis Network Render"
+    ],
+    "creator": [
+        "Hartawan, I Nyoman Buda",
+        "Dirgayusari, Ayu Manik"
+    ],
+    "subject": [
+        "blender",
+        "animation",
+        "super computer",
+        "network render",
+        "rendering"
+    ],
+    "description": [
+        "Rendering is a process for generating a 2D or 3D image. The use of high computer specifications in the rendering process encourages the need for super computer provision. In this research is done rendering video 3D animation analysis using blender application based on network render. In this research used experimental research method, that is by giving variation of frame value to know execution time when done rendering process of 3D animation video. On each computer in the workstation is done Blender application configuration, as Master, Slave, and Client. The results show that 3D animation video rendering process has increased execution time along with increasing number of frames, but along with increasing number of Slave computer execution time of video rendering process of 3D animation has decreased."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 1 No. 1 (2018): Jurnal RESISTOR Edisi April 2018; 25-33",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v1i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2018-04-21"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2018 I Nyoman Buda Hartawan, Ayu Manik Dirgayusari"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/223\/92"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

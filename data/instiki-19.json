@@ -1,0 +1,48 @@
+{
+    "id": "instiki-19",
+    "title": [
+        "ANALISIS JARINGAN SYARAF TIRUAN METODE BACKPROPOGATION DALAM MEMPREDIKSI KETERSEDIAAN KOMODITAS BERAS BERDASARKAN PROVINSI DI INDONESIA"
+    ],
+    "creator": [
+        "Ahmad, Abdullah",
+        "Putri, Pipit Mutiara",
+        "Alifah, Winanda",
+        "Gunawan, Indra",
+        "., Solikhun"
+    ],
+    "subject": [
+        "prediction of rice competition participation, ANN, backpropogation"
+    ],
+    "description": [
+        "Food is a major human need that must be completed at any time. This right is one of human rights, stated in article 27 of the 1945 Constitution and in the Rome Declaration (1996). These considerations underlie the issuance of Law No. 7\/1996 concerning Food. With these considerations, the Government always considers increasing food security related to increasing domestic production. This research is expected to contribute to the government in order to predict the contribution of rice by province in Indonesia. The data used is data from the National Statistics Agency through the website www.bps.go.id. The data is data on rice \/ rice production based on provinces in Indonesia in the period of 2010 to 2015. The algorithm used in this study is Artificial Neural Networks with the Backpropagation method. The input (input) variables used are data for 2010 (X1), data for 2011 (X2), data for 2012 (X3), data for 2013 (X4), data for 2014 (X5) and data for 2015 as targets with models training and testing architecture of 4 architectures namely 4-4-1, 4-8-1, 4-16-1, 4-32-1. The resulting output is the best pattern of ANN architecture. The best architectural model is 4-4-1 with 218 days, MSE 0.012728078 and an accuracy rate of 97%. From this model obtained from estimates obtained from provinces in Indonesia."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 2 No. 1 (2019): Jurnal RESISTOR Edisi April 2019; 48-60",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v2i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2019-04-21"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2019 Abdullah Ahmad, Pipit Mutiara Putri, Winanda Alifah, Indra Gunawan, Solikhun ."
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/348\/147"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

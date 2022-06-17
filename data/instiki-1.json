@@ -1,0 +1,47 @@
+{
+    "id": "instiki-1",
+    "title": [
+        "Analisis Coverage Dan Quality Of Service Jaringan WiFi 2,4 GHz Di STMIK STIKOM Indonesia"
+    ],
+    "creator": [
+        "Satwika, I Kadek Susila",
+        "Sukafona, I Made"
+    ],
+    "subject": [
+        "WiFi",
+        "Coverage",
+        "Quality of Service"
+    ],
+    "description": [
+        "The rapid development of technology, especially mobile technology requires a network infrastructure that supports mobile devices. One of them is a wireless device that is WiFi (wireless Fidelity). STMIK STIKOM (STIKI) Indonesia is one of the campuses that have implemented WiFi technology to support teaching and learning activities. STIKI has installed 8 access points that are used to serve the civitas internet users. To know the performance of WiFi network in STIKI Indonesia, it is necessary to analyze the performance of WiFi network by measuring signal coverage and quality of service (QOS) analysis. In this research, coverage measurement is done by using android application WiFi Heat Mapper and QOS measurement is done by using wireshark application. The measured parameters of QOS are throughput, delay, jitter, and packet loss. Based on the measurements made the results obtained for signal coverage there are still some areas covered by a very small signal strength. Then for QOS measurement it is found that performance of WiFi network based on parameter of throughput, delay, jitter, and packet loss are in good category."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 1 No. 1 (2018): Jurnal RESISTOR Edisi April 2018; 1-7",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v1i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2018-04-21"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2018 I Kadek Susila Satwika, I Made Sukafona"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/150\/89"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

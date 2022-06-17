@@ -1,0 +1,47 @@
+{
+    "id": "instiki-15",
+    "title": [
+        "CONTENT BASED IMAGE RETRIEVAL DENGAN METODE COLOR MOMENT DAN K-MEANS"
+    ],
+    "creator": [
+        "Sukafona, I Made",
+        "Thalib, Emmy Febriani"
+    ],
+    "subject": [
+        "CBIR",
+        "K-Means",
+        "Color Moment"
+    ],
+    "description": [
+        "Content Based Image Retrieval (CBIR) is a research cluster that is very important to overcome problems related to the image search process. The development of internet technology and data communication has caused the number of multimedia images currently circulating to be very high. This study took the Color Moment method to carry out the feature extraction process. Before the feature extraction process, a segmentation process was carried out to separate the background image and the foreground image. Next, each background and front image is stored in the database. Method performance measurement is done by calculating the value of precision and recall. The test image used is the Wang dataset consisting of ten image classes. The test results show the level of recall or completeness of the images that were found to have increased significantly after using the K-Means segmentation process. But a high enough recall value decreases the value of precision or the comparison of true images with the image found overall. Precision values \u00e2\u20ac\u2039\u00e2\u20ac\u2039decrease when compared to the CBIR method without running the K-Means segmentation."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 1 No. 2 (2018): Jurnal RESISTOR Edisi Oktober 2018; 73-78",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v1i2"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2018-10-28"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2018 I Made Sukafona, Emmy Febriani Thalib"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/322\/123"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

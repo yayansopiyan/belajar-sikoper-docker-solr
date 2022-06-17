@@ -1,0 +1,47 @@
+{
+    "id": "instiki-26",
+    "title": [
+        "PERANCANGAN DESAIN RUANGAN DATA CENTER MENGGUNAKAN STANDAR TIA-942: (STUDI KASUS : UPT SIMJAR STMIK STIKOM INDONESIA)"
+    ],
+    "creator": [
+        "Putra, I Dewa Putu Gede Wiyata",
+        "Aristana, Made Dona Wahyu"
+    ],
+    "subject": [
+        "Datacenter",
+        "TIA",
+        "Tier"
+    ],
+    "description": [
+        "The rapid development of information systems has an impact on increasing data storage and processing needs. Data center is a facility that consists of computer networks and storage used by other businesses or organizations to organize, process, store and disseminate large amounts of data. Data center UPT SIMJAR STIKI Indonesia has a small size of computer room, without backup power supply, space construction and security systems that are not ideal. As a result of these conditions, the process of service activities of UPT SIMJAR was disrupted. To overcome this problem, it is necessary to standardize the data center so that good data center criteria are formed, namely availability, scalability \/ flexibility and security. The method carried out in this design is to analyze the requirements listed in the TIA-942 standard, and proceed with the design in accordance with the required criteria. The purpose of this research is to produce a data center design that complies with the TIA-942 standard for UPT SIMJAR STIKI Indonesia."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 2 No. 1 (2019): Jurnal RESISTOR Edisi April 2019; 1-5",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v2i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2019-04-21"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2019 I Dewa Putu Gede Wiyata Putra, Made Dona Wahyu Aristana"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/370\/141"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

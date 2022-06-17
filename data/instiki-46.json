@@ -1,0 +1,48 @@
+{
+    "id": "instiki-46",
+    "title": [
+        "RANCANGAN DATA WAREHOUSE AKADEMIK POLITEKNIK PARIWISATA BALI BERBASIS LINUX OPENSUSE"
+    ],
+    "creator": [
+        "Wirautama, I Gusti Agung Made ",
+        "Candiasa, I Made ",
+        "Dantes, Gede Rasben",
+        "Pratama, I Putu Agus Eka"
+    ],
+    "subject": [
+        "Database, Data Warehouse, Pentaho Data Integration, MySQL, Linux, openSUSE"
+    ],
+    "description": [
+        "This study aims to design an academic data warehouse at Politeknik Pariwisata Bali because there are several information systems that require a system capable of handling databases of several existing information system applications and perform analysis. A data warehouse is the right solution for handling databases of several information systems that are not yet integrated. The research method begins with literature study, identification of problems, determining research objectives, designing solutions, namely designing an academic data warehouse, determining the hardware and software specifications needed, and ending with discussions and drawing conclusions. The result of this research is an academic data warehouse design that can be implemented properly. Besides, the results of this study are also accompanied by specifications for open-source hardware and software to save costs. The data warehouse design produced in this study uses a database of 3 information systems which is the main business process of a college, namely: Academic Information System, Information System for New Student Admissions, Research Information System. The three databases of the information system are internal data sources using the MySQL DBMS. The resulting academic data warehouse design uses open source software, namely: openSUSE, Pentaho Data Integration, MySQL DBMS."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 4 No. 1 (2021): Jurnal RESISTOR Edisi April 2021; 18-25",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v4i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2021-04-21"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2021 I Gusti Agung Made Wirautama",
+        "https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/624\/277"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

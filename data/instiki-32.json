@@ -1,0 +1,48 @@
+{
+    "id": "instiki-32",
+    "title": [
+        "KLASIFIKASI PENGENALAN BUAH MENGGUNAKAN ALGORITMA NAIVE BAIYES"
+    ],
+    "creator": [
+        "Saputra, Arif"
+    ],
+    "subject": [
+        "Apples",
+        "Image processing",
+        "Naive Bayes",
+        "Pattern Recognition",
+        "Classification"
+    ],
+    "description": [
+        "Manually sorting varieties of apples result in high costs, subjectivity, boredom, and inconsistencies associated with humans. A means is needed to distinguish between types of apples and, therefore, some reliable techniques are necessary to identify varieties quickly and without damage. The purpose of conducting research is to investigate the application and performance for Naive Bayes algorithm for apple varieties. This software methodology involves image acquisition, preprocessing, segmentation and analysis classification varieties for apple. The prototype of Apple's classification system was built using the MATLAB R2017 development platform environment. The results in this study indicate that the estimated average accuracy, sensitivity, precision, and specificity are 81%, 73%, 100%, and 70%, respectively. MLP-Neural shows that performance of the Naive Bayes technique is consistent with Principal, Fuzzy Logic, and Neural analysis with 89%, 91%, 87%, and 82% respectively in terms of accuracy. This study shows that Naif Bayes has excellent potential for identifying nondestructive and accurate apple varieties."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 2 No. 2 (2019): Jurnal RESISTOR Edisi Oktober 2019; 83-88",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v2i2"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2019-10-28"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2019 arif saputra"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/434\/165"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

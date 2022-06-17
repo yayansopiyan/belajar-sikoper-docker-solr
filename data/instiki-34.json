@@ -1,0 +1,49 @@
+{
+    "id": "instiki-34",
+    "title": [
+        "IMPLEMENTASI APLIKASI USER MANAGEMENT HOTSPOT MIKROTIK BERBASIS PHP DENGAN APPLICATION PROGRAMING INTERFACE (API) DAN FRAMEWORK BOOTSTRAP"
+    ],
+    "creator": [
+        "I Kadek Juni Arta",
+        "Nyoman Bagus Suweta Nugraha"
+    ],
+    "subject": [
+        "Network",
+        "Hotspot",
+        "Mikrotik",
+        "PHP",
+        "API"
+    ],
+    "description": [
+        "The rapid development of technology has had an influence on people's lives, one of which is the need for hotspot network facilities. The rise of various kinds of businesses, government agencies and educational institutions that provide free hotspots that aim to facilitate the teaching and learning process and due to the rapid development of hotspot technology requires a tool called a router to manage hotspot nets and interfacing applications for easier operation of the router system mikrotik and one of the implementing agencies implementing this technology is STMIK Campus Denpasar. The method used in the design and manufacture of this software is the NDLC method (Network Development Life Cycle. Then the design is carried out with the Flowchart process and applied to the application using PHP and API (Application Programming Interface) for the creation of web-based applications and microtic links with software which are made. The advantages possessed by proxy and user management applications this can facilitate in managing and monitoring users who are connected to managed hotspots, and can also provide bandwidth limitations for each user according to the limits that we have given to the user profile settings."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 3 No. 1 (2020): Jurnal RESISTOR Edisi April 2020; 66-71",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v3i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2020-04-17"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2020 I Kadek Juni Arta, Nyoman Bagus Suweta Nugraha"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/466\/190"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

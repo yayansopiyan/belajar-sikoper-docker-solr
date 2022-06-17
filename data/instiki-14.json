@@ -1,0 +1,49 @@
+{
+    "id": "instiki-14",
+    "title": [
+        "ANALISIS KINERJA PROTOKOL ZIGBEE DI DALAM DAN DI LUAR RUANGAN SEBAGAI MEDIA KOMUNIKASI DATA PADA WIRELESS SENSOR NETWORK"
+    ],
+    "creator": [
+        "Hartawan, I Nyoman Buda",
+        "Desnanjaya, I Gusti Made Ngurah"
+    ],
+    "subject": [
+        "Xbee",
+        "Zigbee",
+        "Xctu",
+        "Wireless Sensor Network",
+        "IEEE"
+    ],
+    "description": [
+        "Wireless sensor network is a technology used in supporting monitoring activities both inside and outside environment. Data communication on wireless sensor networks is done wirelessly. The Zigbee protocol is one of the protocols used in data communication on wireless sensor networks as an implementation of XBEE devices. In this study measurement of Zigbee protocol performance on XBEE devices inside and outside environment. The measurement conditions in the room are limited by the wall partition, while the outdoor conditions are line of sight. Measurements were made by sending packet data using XCTU software, by testing distance parameters, packet delay, packet loss, RSSI, and throughput with 84 Bytes packet data size. The results showed that the measurement results of XBEE Pro S2 devices that were carried out indoors were able to communicate with a maximum distance of 30 meters, while the outdoor measurements showed the communication capability of XBEE Pro S2 devices reached a maximum distance of 600 meters."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 1 No. 2 (2018): Jurnal RESISTOR Edisi Oktober 2018; 65-72",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v1i2"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2018-10-28"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2018 I Nyoman Buda Hartawan; I Gusti Made Ngurah Desnanjaya"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/320\/115"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

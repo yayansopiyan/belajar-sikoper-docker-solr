@@ -1,0 +1,51 @@
+{
+    "id": "instiki-2",
+    "title": [
+        "Analisis Data Pada Jaringan Sensor Nirkabel Menggunakan Metode Support Vector Machine"
+    ],
+    "creator": [
+        "Layadi, Caroline",
+        "Fajar, Mohammad",
+        "Hasniati, Hasniati",
+        "Musdar, Izmy Alwiah"
+    ],
+    "subject": [
+        "wireless sensor network",
+        "support vector machine",
+        "kernel",
+        "data mining",
+        "accuracy"
+    ],
+    "description": [
+        "The aims of this research are to implement Support Vector Machine for analyze abnormal data on sensor network and evaluate the implementation result. The data collection in the research were done through the searching of related libraries and software evaluate\/testing. In this research, temperature, wind speed, and humidity tested using three kernels (linear, Gaussian, and polynomial). Evaluation result show that the implementation of Support Vector Machine can perform the best data validity analysis using Gaussian Kernel with the percentage of average accuracy, temperature 97.83%, humidity 94.5325%, and wind speed 96.93% for weather data 20-28 May and July 28-August 10, 2015. Meanwhile, for weather data June 5-6, 2017 obtained the percentage of average accuracy of temperature 92.855% and humidity 92.43%."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 1 No. 1 (2018): Jurnal RESISTOR Edisi April 2018; 8-15",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v1i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2018-04-21"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2018 Caroline Layadi, Mohammad Fajar, Hasniati Hasniati, Izmy Alwiah Musdar"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/196\/90"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "instiki-10",
+    "title": [
+        "IMPLEMENTASI KATOOLIN SEBAGAI PENETRASI TOOLS KALI LINUX PADA LINUX UBUNTU 16.04 (STUDI KASUS: REVERSE ENGINEERING FILE .APK)"
+    ],
+    "creator": [
+        "Eka Pratama, I Putu Agus",
+        "Wiradarma, Anak Agung Bagus Arya"
+    ],
+    "subject": [
+        "kali linux",
+        "security",
+        "linux ubuntu",
+        "reverse engineering",
+        "Katoolin"
+    ],
+    "description": [
+        "The Linux Operating System is known for its open-source characteristic which means everyone is free to develop Linux with the use of available source code. The result of Linux development is called Linux distribution (Distro). There are various Linux distributions in accordance with their respective uses, one of them is Kali Linux. Kali Linux is a Linux distro that is developed to penetrate the security of computer systems. Kali Linux uses a variety of tools to perform its functions. However, for users who want to use the functionality of Kali Linux without having to change the Linux distro that has been used, the user can use Katoolin. Katoolin can provide the convenience and flexibility for users who want to use Kali Linux as a special Linux distro for the purpose of penetrating computer system security without having to replace the distro that has been used or do a full install of Kali Linux. One case study that can be solved using the Kali Kali Linux based tool on Katoolin is Reverse Engineering. The case study was solved using one of the tools in the Reverse Engineering category named apktool that available on Katoolin."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 1 No. 2 (2018): Jurnal RESISTOR Edisi Oktober 2018; 86-93",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v1i2"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2018-10-28"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2018 I Putu Agus Eka Pratama, Anak Agung Bagus Arya Wiradarma"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/278\/118"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

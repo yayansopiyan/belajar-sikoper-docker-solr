@@ -1,0 +1,51 @@
+{
+    "id": "instiki-48",
+    "title": [
+        "PENERAPAN TEKNOLOGI DATAWAREHOUSE NOSQL DAN BUSINESS INTELLIGENCE UNTUK ANALISA TRANSAKSI PENJUALAN"
+    ],
+    "creator": [
+        "Handika, I Putu Susila",
+        "Tama, Gede Bagus Arya",
+        "Krisnayanti, Ni Putu Mega"
+    ],
+    "subject": [
+        "datawahouse",
+        "ETL",
+        "NoSql",
+        "mongoDB",
+        "business intelligence"
+    ],
+    "description": [
+        "Business process are increasingly developing, causing data generated will be even greater. The application of datawarehouse technology and MongoDB as one of the NoSQL technologies can solve large historical data processing problems. In addition, business intelligence technology that is able to visualize data in into graphics and tables will make it easier for stakeholders to analyze sales transactions. The process for transforming transaction data into a datawarehouse is the Extract Transform Load (ETL) process. The data generated from the ETL process is quality data and is really needed for analysis. Black box testing results and data validity indicate the system can be accepted and can produce the right information for decision support."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 3 No. 2 (2020): Jurnal RESISTOR Edisi Oktober 2020; 120-127",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v3i2"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2020-10-28"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2020 I Putu Susila Handika, Gede Bagus Arya Tama, Ni Putu Mega Krisnayanti",
+        "https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/626\/231"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

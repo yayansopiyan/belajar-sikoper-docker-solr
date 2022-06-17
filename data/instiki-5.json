@@ -1,0 +1,50 @@
+{
+    "id": "instiki-5",
+    "title": [
+        "Analisis Evaluasi Aplikasi Augmented Reality Untuk Informasi Kebudayaan Bali Berdasarkan Standar ISO 25010"
+    ],
+    "creator": [
+        "Andika, I Gede",
+        "Yanti, Christina Purnama"
+    ],
+    "subject": [
+        "Museum",
+        "Augmented Reality",
+        "Suitability",
+        "Usability",
+        "Efficiency",
+        "Compatibility"
+    ],
+    "description": [
+        "Currently there are still many people of Bali who just know the museum is a place to store historical items but are reluctant to come. Therefore built an application that combines smartphone technology with Augmented Reality so that later can attract people to come visit the Museum of Bali. In order to obtain application results that meet the standards, evaluation is required to assess the quality of an application based on ISO 25010 standards. The software quality standards that are tested are aspects of functional suitability, usability, performance efficiency, and compatibility. Based on the results of all research that has been done, it can be concluded that the quality of Augmented Reality Museum Bali application has met the software quality standards that refer to the ISO 25010 standard. The result of testing the aspect of functional suitability is 100%. Usability aspect got the conclusion that AR Museum Bali application have aspect of learnability, efficiency, memorability, and satisfaction with good category. Performance performance aspect is 3 test and get average response time test 1 is 27.29 ms; test 2 of 38.52 ms; and test 3 of 20.31 ms. The compatibility aspect is 100%."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 1 No. 1 (2018): Jurnal RESISTOR Edisi April 2018; 34-40",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v1i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2018-04-21"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2018 I Gede Andika, Christina Purnama Yanti"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/241\/93"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

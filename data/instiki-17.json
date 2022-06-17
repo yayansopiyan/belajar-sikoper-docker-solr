@@ -1,0 +1,48 @@
+{
+    "id": "instiki-17",
+    "title": [
+        "SIMULASI NDN MENGGUNAKAN NDNSIM PADA JARINGAN INTRANET KAMPUS TEKNOLOGI INFORMASI FAKULTAS TEKNIK UNIVERSITAS UDAYANA"
+    ],
+    "creator": [
+        "Eka Pratama, I Putu Agus",
+        "Wicaksono, Mohammad Ernico Suryo"
+    ],
+    "subject": [
+        "NDN",
+        "Simulation",
+        "Intranet",
+        "NdnSIM"
+    ],
+    "description": [
+        "NDN (Named Data Networking) is one of today's internet technologies with identifier of the packet is given in the form of a content name, not a source or destination address. Such properties make NDN have a new forwarding mechanism and different from host to host (IP-based) network architecture. Utilization of this new technology is usually incomplete or there is a need for simulations for initial testing and testing. This paper will discuss about NDN simulation. The simulation will be done using ndnSIM, an open source simulator and testing was performed at Information Technology Campus, Faculty of Engineering, Udayana University\u00e2\u20ac\u2122s intranet."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 2 No. 2 (2019): Jurnal RESISTOR Edisi Oktober 2019; 136-140",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v2i2"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2019-10-28"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2019 I Putu Agus Eka Pratama, Mohammad Ernico Suryo Wicaksono"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/330\/172"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

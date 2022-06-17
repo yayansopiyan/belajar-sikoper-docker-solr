@@ -1,0 +1,49 @@
+{
+    "id": "instiki-89",
+    "title": [
+        "SISTEM REKOMENDASI PERJALANAN WISATA BERBASIS EXPERT SYSTEM DAN ALGORITMA GENETIKA"
+    ],
+    "creator": [
+        "Suputra, I Putu Gede Hendra",
+        "Putri, Luh Arida Ayu Rahning"
+    ],
+    "subject": [
+        "E-Tourism",
+        "Recommendation System",
+        "Rule Base Expert System",
+        "Genetika"
+    ],
+    "description": [
+        "The development of tourism cannot be separated from the use of E-Tourism technology as a medium for disseminating and promoting tourism information through the media of certain sites. The existence of these sites is still considered static and simple. Site providers are considered not prioritizing responsiveness and interactivity to users. Users need a system that is able to respond and iteratively is able to provide recommendations for the needs of tourists personally. The problem of responsive and interactive concepts on tourist sites has been tried to solve previously through several previous studies. These studies have given good results. However, the implementation of the previous methods is seen as still having weaknesses. For example, it has not been able to meet the personal aspects of the specific tourist needs. considering that each tourist has different characteristics. Seeing these problems, the researchers developed a system that is able to provide a travel recommendation by combining the Genetic algorithm and the Rule Base Expert System (RBES). Users are given a recommended travel route based on the location and time that is suitable by the Genetic algorithm. Furthermore, RBES is tasked with perfecting the results of these recommendations by adjusting them to tourist characteristics. The results of the combination of the two methods show that the improvement of the route and travel time can be improved personally by RBES in accordance with the characteristics of tourists.\nKeywords: E-Tourism, Genetika, Rule Base Expert System, Recommendation System\n&nbsp;"
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 5 No. 1 (2022): Jurnal RESISTOR Edisi April 2022; 47-54",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v5i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2022-04-21"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2022 I Putu Gede Hendra Suputra",
+        "https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/761\/334"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

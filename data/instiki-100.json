@@ -1,0 +1,51 @@
+{
+    "id": "instiki-100",
+    "title": [
+        "IMPLEMENTASI METODE MEL-FREQUENCY CEPSTRAL COEFFICIENT DAN DTW PADA APLIKASI PENGENALAN SUARA TEMBANG SEKAR ALIT "
+    ],
+    "creator": [
+        "Raharja, Made Agung ",
+        "Adiatmika, I Putu Gede",
+        "Adiputra, I Nyoman",
+        "Purnawati, Susy",
+        "Supriana, I Wayan"
+    ],
+    "subject": [
+        "Sekar Alit",
+        "Speech Recognition",
+        "MFCC"
+    ],
+    "description": [
+        "The province of Bali has various types of songs that have different structures and functions, one of which is the Sekar Alit song. Seeing current technological advances, conservation efforts should follow the development of existing technology. This study recognizes the singer's voice with the MeliFrequency iCepstrum Coefficients (MFCC) method used to perform feature extraction, i.e. to obtain a parameter and information regarding the characteristics of a person's voice and the training of voice pattern matching against the voice of the DTW Singer Alit (Dinamic) and the Time Warping Alit method. . So that the final result of this research is an android-based tembang sekar alit learning application that can be used by students to learn more easily and effectively which is called the SekARAI application. The results of usability testing on the application found that the average value was above 3, which means that the SekARAI software that has been implemented has met the Usability element and besides that the software is easy to use and understand by users. The Sekar Alit Song Voice Recognition application has been evaluated using the confusion matrix method, it is found that the MFCC algorithm test results in an accuracy of 76.6%."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 5 No. 1 (2022): Jurnal RESISTOR Edisi April 2022; 65-71",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v5i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2022-04-21"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2022 Made Agung  Raharja, I Putu Gede Adiatmika, I Nyoman Adiputra, Susy Purnawati, I Wayan Supriana",
+        "https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/1081\/336"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

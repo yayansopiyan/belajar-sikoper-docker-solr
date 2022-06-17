@@ -1,0 +1,50 @@
+{
+    "id": "instiki-38",
+    "title": [
+        "RANCANG BANGUN DAN PENGUJIAN PERFOMANSI  ANTENA MIMO 2X1 DAN 4X1 METODE ARRAY RECTANGULER PATCH FREKUENSI 2,3 GHz \u00e2\u20ac\u201c 2,4 GHz TEKNOLOGI 4G LTE "
+    ],
+    "creator": [
+        "maria ulfah",
+        "Syifa\u00e2\u20ac\u2122atul Mahmudah"
+    ],
+    "subject": [
+        "MIMO",
+        "antenna",
+        "microstrip",
+        "array",
+        "gain",
+        "VSWR"
+    ],
+    "description": [
+        "Antenna microstrip merupakan salah satu antenna yang saat ini diterapkan pada teknologi 4G LTE dengan rancangan multi input multi output (MIMO). Untuk mencapai peningkatkan nilai parameter gain (penguatan) agar jangkauan jaringan 4G LTE lebih luas maka dalam penelitian ini dirancang antenna MIMO 2X1 dan 4x1 rectanguler patch dengan digunakan metode array dengan frekuensi kerja 2,3 GHz \u00e2\u20ac\u201c 2,4 GHz.Hasil simulasi untuk antenna MIMO 2x1 &nbsp;terdiri dari gain 5,13 dB, return loss -18,913 dB, VSWR 1,2555. Hasil simulasi untuk antenna MIMO 4x1 &nbsp;terdiri dari gain 7,322 dB, return loss -15,59 dB, VSWR 1,3985. Untuk pengukuran perfomansi antenna 2x1 outdoor&nbsp; memiliki rata-rata ping test 119,6 ms, download test 20.12 Mbps, upload test 8,5 Mbps. . Untuk pengukuran perfomansi antenna 2x1 indoor&nbsp; memiliki rata-rata ping test 85,91 ms, download test 20.06 Mbps, upload test 7 Mbps. Untuk pengukuran perfomansi antenna 4x1 outdoor&nbsp; memiliki rata-rata ping test 150 ms, download test 2,82 Mbps, upload test 2,92 Mbps. Untuk pengukuran perfomansi antenna 4x1 indoor&nbsp; memiliki rata-rata ping test 107,45 ms, download test 22,38 Mbps, upload test 5,12 Mbps"
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 3 No. 1 (2020): Jurnal RESISTOR Edisi April 2020; 49-56",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v3i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2020-04-17"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2020 maria ulfah, Syifa\u00e2\u20ac\u2122atul Mahmudah"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/553\/194"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

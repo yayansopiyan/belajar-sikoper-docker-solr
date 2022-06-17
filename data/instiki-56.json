@@ -1,0 +1,51 @@
+{
+    "id": "instiki-56",
+    "title": [
+        "KONTROL PEMAKAIAN PERALATAN ELEKTRONIK BERBASIS MIKROKONTROLER DAN ALGORITMA FUZZY MAMDANI"
+    ],
+    "creator": [
+        "Danuputri, Chyquitha",
+        "Hakim, Lukman",
+        "Susilo, Willy Stevanus ",
+        "Samuel, Fernando Dedi "
+    ],
+    "subject": [
+        "Mamdani Fuzzy Logic",
+        "Internet of Thing",
+        "Intelligent system",
+        "Microcontroller"
+    ],
+    "description": [
+        "Excessive use of electricity had some negative impacts. In this research, the Arduino ESP32 integrated with the WiFi module, the PZEM-004T V3.0 electric current sensor to detect the electric current used, DHT22 temperature sensor to measure the temperature and humidity of the room air, BH1750 light sensor to measure the intensity of light entering the room and SPDT Relay&nbsp; connected between the microcontroller and the lamp. Mamdani Fuzzy Logic Algorithm which was a cryptic system as part of the intelligent system methodology applied to control automation in fans with fuzzy input variables was temperature and humidity as well as the automation of lamp usage applied fuzzy logic mamdani with fuzzy input variables were the intensity of incoming light and the time zone. Defuzzy's calculation results based on rules and have been tested on fan and lamp automation obtained 100% accuracy. Aside from being automatic, this system were also applied manual control through the Blynk application only to the function (ON \/ OFF) and monitored real time electricity usage in the IDR value remotely with the Internet of Things method based on Microcontroller and IOS or Android. This research could help homeowners in saving electricity."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 3 No. 2 (2020): Jurnal RESISTOR Edisi Oktober 2020; 94-107",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v3i2"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2020-10-28"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2020 Chyquitha Danuputri, Lukman Hakim, Willy Stevanus  Susilo, Fernando Dedi  Samuel",
+        "https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/646\/222"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": "instiki-53",
+    "title": [
+        "IMPLEMENTASI ALGORITMA KRUSKAL DAN ALGORITMA PRIM SUATU GRAPH DENGAN APLIKASI BERBASIS DESKTOP"
+    ],
+    "creator": [
+        "Sholikhatin, Siti Alvi",
+        "Prasetyo , Adi Budi ",
+        "Nurhopipah, Ade"
+    ],
+    "subject": [
+        "Kruskal",
+        "Prim",
+        "Graph",
+        "Algoruthm",
+        "Desktop Aplication"
+    ],
+    "description": [
+        "A graph has several algorithms in its solution, including the Kruskal algorithm and Prim algorithm, both of which are greedy algorithms for determining the minimum spanning tree. Completion of graphs is useful in various fields of life, so an accurate graph calculation is important. Making an application to solve a graph, especially the Kruskal algorithm and Prim algorithm aims to facilitate the work of the graph so as to produce an accurate final result. The flow of research carried out are: a background review of research, study of literature and relevant literature, application design, building desktop-based applications, as well as implementation and application tests. The level of technological readiness or TKT in this research is based on self-assessment which is at level 7, meaning the prototype demonstration system in the actual environment, with details of the TKT indicators as follows: TKT indicator 1 is met, TKT indicator 2 is met, TKT indicator 3 is not met, TKT indicator 4, TKT indicator 5 are met, TKT indicator 6 are met, TKT indicator 7 is met, TKT indicator 8 and 9 are not met. The application that has been built is useful for completing a graph with the Kruskal algorithm and Prim algorithm. This research was conducted to answer the crucial needs of a weighted graph settlement application. "
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 3 No. 2 (2020): Jurnal RESISTOR Edisi Oktober 2020; 89-93",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v3i2"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2020-10-28"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2020 Siti Alvi Sholikhatin, Adi Budi  Prasetyo , Ade Nurhopipah",
+        "https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/638\/221"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "jurnalarkeologi-70",
+    "title": [
+        "SISTEM INFORMASI GEOGRAFIS ARKEOLOGI ISLAM BERBASIS WebGIS: KAJIAN ARKEOLOGI PUBLIK"
+    ],
+    "creator": [
+        "Makmur, Makmur"
+    ],
+    "subject": [
+        "Arkeologi",
+        "Islam",
+        "Teknologi Informasi",
+        "WebGIS"
+    ],
+    "description": [
+        "Abstract. WebGIS-Based Archaeological Geographic Information System of Islam: Study on Public Archaeology. Information technology has become a necessity in storing and providing information. The availability of fast and accurate information is vital to human survival today. This study aims to design Islamic archeology information systems in South, Southeast, and West Sulawesi based on WebGIS. The research method used is literature study and system design using HTML (Hypertext Markup Language) programming language, PHP (Hypertext Preprocessor), and JavaScript. A series of program codes are connected to an open source program called MapServer and Google maps. The method of data collection is to explore the reports of Archeology Research Institute of South Sulawesi from 1996 to 2017, then the archaeological data are integrated into one database. Next, all the archaeological data are compiled into spatial format in order to have the same geographical reference. The overlay between Google maps with Islamic archaeological data in South, Southeast, and West Sulawesi is very easily accessible effectively and efficiently by various parties due to the\u00a0 use of the Information System of Islamic Archaeological based WebGIS.\u00a0Abstrak. Teknologi informasi sudah menjadi sebuah keharusan dalam penyediaan dan pemberian informasi. Ketersediaan informasi yang cepat dan akurat menjadi hal penting bagi kelangsungan hidup manusia saat ini. Penelitian ini bertujuan untuk merancang sistem informasi peninggalan arkeologi Islam di Sulawesi Selatan, Tenggara, dan Barat berbasis WebGIS. Metode penelitian yang digunakan ialah studi pustaka dan perancangan sistem dengan menggunakan bahasa pemrograman HTML (Hypertext Markup Language), PHP (Hypertext Preprocessor), dan JavaScript. Rangkaian kode-kode program dikoneksikan dengan sebuah program open source bernama MapServer dan peta Google. Metode pengumpulan data yaitu mengeksplorasi laporan hasil penelitian Balai Arkeologi Sulawesi Selatan dari tahun 1996 sampai 2017, kemudian data arkeologi diintegrasikan kedalam satu database, selanjutnya menset-up seluruh data arkeologi kedalam format spasial agar memiliki referensi geografis yang sama. Hasil penyatuan (overlay) antara peta Google dengan data-data arkeologi Islam yang ada di Sulawesi Selatan, Tenggara, dan Barat sangat mudah diakses secara efektif dan efisien oleh berbagai pihak yang berkepentingan karena sudah menggunakan Sistem Informasi Arkeologi Islam berbasis WebGIS."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "AMERTA; Vol. 36 No. 1 (2018); 55-66",
+        "2549-8908",
+        "0215-1324"
+    ],
+    "publisher": [
+        "Pusat Penelitian Arkeologi Nasional"
+    ],
+    "date": [
+        "2018-09-30"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2018 AMERTA"
+    ],
+    "relation": [
+        "http:\/\/jurnalarkeologi.kemdikbud.go.id\/index.php\/amerta\/article\/view\/334\/330"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "id": "instiki-103",
+    "title": [
+        "KLASIFIKASI MOOD MUSIK BERDASARKAN MEL FREQUENCY CEPSTRAL COEFFICIENTS DENGAN BACKPROPAGATION NEURAL NETWORK"
+    ],
+    "creator": [
+        "Maulana, Patriaji Ibrahim",
+        "Aranta, Arik",
+        "Bimantoro, Fitri",
+        "Andika, I Gede"
+    ],
+    "subject": [
+        "Music",
+        "MIR",
+        "Mood",
+        "MFCC",
+        "BPNN"
+    ],
+    "description": [
+        "In music industry, each music is grouped by type, including music genre, artist identification, instrument introduction, and mood. Then came a field of research called Music Information Retrieval (MIR) which is a field of science that retrieves and processes the metadata of music files to perform the grouping. This research is based on the uniqueness of music that has its own mood implied in it. By creating a Machine Learning model using Backpropagation Neural Network (BPNN) based on the Mel Frequency Cepstral Coefficients (MFCC) input feature, it will be able to classify types of music based on mood. Grouping is carried out on four mood classes based on Thayer's model. Based on several previous studies, the use of MFCC in voice processing produces very good accuracy as well as the use of BPNN for classification, which is expected to result in better machine learning model performance. The data used in this study were obtained from the Internet with a total dataset of 200. The results obtained from this study are the classification of music mood using BPNN based on the MFCC feature capable of producing 87.67%. accuracy. "
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 5 No. 1 (2022): Jurnal RESISTOR Edisi April 2022; 72-85",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v5i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2022-04-21"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2022 Arik Aranta",
+        "https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/1089\/337"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

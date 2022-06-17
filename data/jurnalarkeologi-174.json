@@ -1,0 +1,46 @@
+{
+    "id": "jurnalarkeologi-174",
+    "title": [
+        "Model Spatial Analysis untuk Penilaian  Bangunan Cagar Budaya di Kota Gresik"
+    ],
+    "creator": [
+        "Putranto, Andi"
+    ],
+    "subject": [
+        "Gresik",
+        "bangunan tua",
+        "spatial analysis",
+        "GIS",
+        "kuantitatif"
+    ],
+    "description": [
+        "Gresik is one of the old cities in Java that has experienced a period of appearing and developing for a long time. In Gresik, there are many archaeological remains in the form of old buildings, especially from the colonial period, which are scattered in several regions in the city of Gresik. The assessment of cultural heritage, especially of the types of buildings so far has been carried out, especially in the framework of preservation and cultural resource management,but not much is known about the mechanism. Therefore, in this study a valuation model is proposed using a tiered quantitative analysis method derived from spatial analysis methods with a weighting factor. In this study proposed building ratings are building class D = Poor, building class C = Moderate, building class B = Good, and building class A = Excellent.\u00a0Gresik merupakan.salah satu kota lama di Pulau Jawa yang telah mengalami masa muncul dan berkembang dalam kurun waktu yang cukup lama. Di Gresik banyak dijumpai tinggalan arkeologis berupa bangunan tua, khususnya dari periode kolonial yang tersebar di beberapa kawasan di Kota Gresik .\u00a0 Penilaian cagar budaya, khususnya jenis bangunan, selama ini telah dilakukan terutama dalam rangka penyusunan rekomendasi untuk penetapan dan kepentingan terkait dengan\u00a0 pelestarian, tetapi belum banyak diketahui bagaimana mekanismenya Oleh karena itu, di dalam penelitian ini diajukan\u00a0 model penilaian dengan menggunakan metode analisis kuantitatif berjenjang dengan faktor pembobot. Metode ini merupakan implementasi dari metode spatial analisis dalam kajian GIS (Geographic Information System).\u00a0 Dalam penelitian ini diajukan peringkat bangunan, yaitu kelas bangunan D = Kurang, kelas bangunan C = Cukup, kelas bangunan B = Baik, dan kelas bangunan A = Istimewa"
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "AMERTA; Vol. 36 No. 2 (2018); 132-144",
+        "2549-8908",
+        "0215-1324"
+    ],
+    "publisher": [
+        "Pusat Penelitian Arkeologi Nasional"
+    ],
+    "date": [
+        "2018-12-25"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2019 AMERTA"
+    ],
+    "relation": [
+        "http:\/\/jurnalarkeologi.kemdikbud.go.id\/index.php\/amerta\/article\/view\/475\/383"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": "instiki-39",
+    "title": [
+        "METODE PENALARAN BERBASIS KASUS (CASE BASE REASONING) DALAM PENENTUAN KELAYAKAN SEKOLAH PERAWATAN "
+    ],
+    "creator": [
+        "I Wayan Supriana",
+        "Kiki Dwi Prebiana"
+    ],
+    "subject": [
+        "dataset nursery",
+        "school of nursing",
+        "case-based reasoning (CBR)",
+        "naive bayes"
+    ],
+    "description": [
+        "Nurse is a job that has many roles in everyday life. Obtained from the ability to become a nurse. In 1980, there was an explosion in the number of registrants at the Ljubljana nursing school, Slovenia. The data is then collected in a data collected data that is a nursery dataset. There are several things related to health conditions, family status, financial conditions and other things that are considered feasible or not to enter the nursing school. A system that can be used for this problem needs to be created. In this study, a system will be made by applying the method of punishment based on cases and classifying domains to increase computational time. Each new case will be calculated the similarity value to the old case using the Bayes naive algorithm. The system built will produce a decision about whether or not the applicant is suitable in nursing school. Of the 100 data tested, 96 data were obtained that produced true values. With a computing time between 0.253 seconds - 0.607 seconds."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 3 No. 1 (2020): Jurnal RESISTOR Edisi April 2020; 57-65",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v3i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2020-04-17"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2020 I Wayan Supriana, Kiki Dwi Prebiana"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/554\/195"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

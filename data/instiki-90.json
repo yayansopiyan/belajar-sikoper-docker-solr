@@ -1,0 +1,48 @@
+{
+    "id": "instiki-90",
+    "title": [
+        "ANALISIS DAN PERBANDINGAN QUALITY OF SERVICE VIDEO CONFERENCE JITSI DAN BIGBLUEBUTTON PADA VIRTUAL PRIVATE SERVER"
+    ],
+    "creator": [
+        "Iswara, Ida Bagus Ary Indra",
+        "Yasa, I Putu Pedro Kastika"
+    ],
+    "subject": [
+        "video conference",
+        "quality of service",
+        "comparison"
+    ],
+    "description": [
+        "The use of video conferencing technology is increasing due to the COVID-19 pandemic. Bigbluebutton and jitsi are examples of open source video conferencing platforms that can be installed on their own servers. The server is created using a cloud-based virtual machine. Analysis of quality of service which includes delay, packet loss, throughput, and jitter is needed to determine the quality of service and the comparison of the two platforms. Observations were also made on the use of CPU, memory \/ RAM, and disk usage for each server. There are 3 test scenarios carried out. Each scenario is carried out on each existing VM specification. From this test, it is known that in the delay parameter, the highest bigbluebutton is obtained, which is 35,35 ms. And then the highest jitsi delay is 17,66 ms. In packet loss parameters, jitsi obtained the highest yield, namely 0,29%, while for bigbluebutton only 0,16% of packet loss was the highest. Throughput, bigbluebutton and jitsi all got very bad results. However, bigbluebutton obtained better results, namely, the highest throughput was 5.6%. While Jitsi obtained the highest throughput, namely 2,8%. Whereas for the jitter parameter, jitsi obtained 0,00 ms results on all tests in each VM. Meanwhile, bigbluebutton, get 0,1 ms on test 3 on VM 1"
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 4 No. 2 (2021): Jurnal RESISTOR Edisi Oktober 2021; 192-203",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v4i2"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2021-10-28"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2021 Ida Bagus Ary Indra Iswara, I Putu Pedro Kastika Yasa",
+        "https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/794\/320"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

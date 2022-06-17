@@ -1,0 +1,50 @@
+{
+    "id": "instiki-22",
+    "title": [
+        "ALGORITMA BACKPROPAGATION DALAM MEMPREDIKSI JUMLAH KENDARAAN BERMOTOR YANG MEMBAYAR PAJAK MENURUT JENIS KENDARAAN DI KABUPATEN BATUBARA"
+    ],
+    "creator": [
+        "Rumapea, Enjelica",
+        "Bestari, Bintang",
+        "Manurung, Joose Andar Laidin",
+        "Handrizal, Handrizal",
+        "Solikhun, Solikhun"
+    ],
+    "subject": [
+        "The number of motorized vehicles that pay taxes",
+        "ANN",
+        "backpropogation"
+    ],
+    "description": [
+        "Tax is a source of funds for the state to overcome various problems such as social problems, improving welfare, prosperity of its people. In the Batubara district itself, the number of receipts of Motor Vehicle Taxes and the development of the number of motorized vehicles have increased but not offset by awareness of taxpayers, this is reflected in the amount of arrears and considerable fines at the Coal Samsat Office. Looking at these problems, a method that is effective in estimating the number of vehicles paying taxes in the Batubara district is needed. The data used is data from the Regency Statistics Agency. Coal through the website www.batubarakab.bps.go.id. The data is the number of motorized vehicles that pay taxes in the Coal district in the period of 2012 to 2017. The algorithm used in this study is Artificial Neural Networks with the Backpropagation method. Input variables used are 2012 data (X1), 2013 data (X2), 2014 data (X3), 2015 data (X4), 2016 data (X5) and 2017 data as targets with models training and testing architecture of 4 architectures namely 4-4-1, 4-8-1, 4-16-1, 4-32-1. The resulting output is the best pattern of ANN architecture. The best architectural model is 4-8-1 with epoch 3681, MSE 0.009744 and 100% accuracy. So that the prediction of the number of motorized vehicles that pay taxes is obtained in Batubara district."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 2 No. 1 (2019): Jurnal RESISTOR Edisi April 2019; 24-33",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v2i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2019-04-21"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2019 Enjelica Rumapea, Bintang Bestari, Joose Andar Laidin Manurung, Handrizal Handrizal, Solikhun Solikhun"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/357\/143"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

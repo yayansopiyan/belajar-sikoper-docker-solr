@@ -1,0 +1,50 @@
+{
+    "id": "instiki-73",
+    "title": [
+        "RANCANG BANGUN ALAT PENGUKURAN FISIK MANUSIA UNTUK DATA MEDIS BERBASIS INTERNET Of THINGS"
+    ],
+    "creator": [
+        "Nur Arifin, Muhamad",
+        "Susilo, Kunto Eko",
+        "Nugroho, Aryo"
+    ],
+    "subject": [
+        "Internet of Things",
+        "Medical",
+        "Database",
+        "Automasi"
+    ],
+    "description": [
+        "Technological developments that have begun the 4.0 industrial revolution have made many sectors in everyday life begin to innovate in order to be able to compete and be more efficient. It also penetrated the medical world, which was previously still done manually and requires considerable human resources. However, along with the many innovations that exist in the process that can be automated, ranging from the process of patient registration to examination of a person himself. In this study, the authors designed a tool that can retrieve data from humans for medical needs based on the Internet of Things. Data will be taken from these measurements between the body height of the patient, the body temperature of a patient and the body of a patient at the same time automatically. After data retrieval is carried out by several sensors, then the data will be sent to the broker \/ server which will be sent to the Node-red dashboard using the MQTT protocol and the data will be transferred to the database. A patient's disease date will be present. ESP32, Ultrasonic Sensor, MLX90614, LoadCell and MYSQL database."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 4 No. 1 (2021): Jurnal RESISTOR Edisi April 2021; 51-58",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v4i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2021-04-21"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2021 Muhamad Nur Arifin",
+        "https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/706\/271"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

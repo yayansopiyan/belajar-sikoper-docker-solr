@@ -1,0 +1,50 @@
+{
+    "id": "instiki-95",
+    "title": [
+        "ARDUINO MKR FOX 1200, MKR1000, AND MKR VIDOR 4000 ANALYSIS USING A SIMPLE RTC ALARM METHOD"
+    ],
+    "creator": [
+        "Desnanjaya, I Gusti Made Ngurah",
+        "Adnyana, I Made Wira ",
+        "Anugrah, Kadek Aldy Adhistya "
+    ],
+    "subject": [
+        "Arduino MKR 1000",
+        "Arduino MKR Fox 1200",
+        "Arduino MKR Vidor 4000",
+        "Simple RTC Alarm"
+    ],
+    "description": [
+        "Arduino MKR merupakan salah satu bagian dari keluarga arduino yang memiliki kemampuan yang berbeda dengan arduino biasa. Dalam penelitian ini, penulis akan membahas kemampuan dari IC RTC yang sudah tertanam pada papan Arduino MKR dan membandingkan data dari ketelitian pembacaan nilai RTC. Nilai yang didapatkan akan menunjukkan papan Arduino MKR yang memiliki kemampuan pembacaan nilai RTC terbaik. Adapun papan Arduino MKR yang digunakan dalam penelitian ini yaitu dengan tipe Arduino MKR 1000, Arduino MKR Fox 1200, dan Arduino MKR Vidor 4000. Untuk mendukung penelitian, penulis menggunakan metode penelitian kuantitatif eksperimental. Penggunaan metode ini sangat cocok digunakan karena metode ini menonjolkan angka sebagai data dan penulis juga melakukan percobaan langsung pada papan Arduino MKR. Setelah penelitian dilakukan, maka dari hasil percobaan diperoleh rata-rata MKR 1000 memiliki selisih waktu terkecil sebesar 2.912 detik dibandingkan dengan MKR Fox 1200 dengan selisih waktu rata-rata 4.097 detik dan MKR Vidor 4000 memiliki selisih waktu rata-rata 5.804 detik. Untuk proyek yang menggunakan RTC (Real Time Clock) direkomendasikan menggunakan\u00a0 MKR 1000."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 4 No. 2 (2021): Jurnal RESISTOR Edisi Oktober 2021; 178-185",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v4i2"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2021-10-28"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2021 I Gusti Made Ngurah Desnanjaya, I Made Wira Adnyana, Kadek Aldy Adhistya Anugrah",
+        "https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/896\/316"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

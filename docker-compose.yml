@@ -1,0 +1,19 @@
+version: "3.7"
+
+services:
+  solr:
+    container_name: sikoper_solr
+    image: bitnami/solr:latest
+    networks:
+      - network
+    environment:
+      - SOLR_CORE=sikoper
+    ports:
+      - "8983:8983"
+    volumes:
+      - ./data:/data/
+
+networks:
+  network:
+    name: network
+    external: true

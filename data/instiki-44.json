@@ -1,0 +1,49 @@
+{
+    "id": "instiki-44",
+    "title": [
+        "RANCANG BANGUN ALAT METERAN AIR PINTAR BERBASIS IoT SEBAGAI PENUNJANG LAYANAN DISTRIBUSI PDAM "
+    ],
+    "creator": [
+        "Saputra, Bayu",
+        "Winardi, Slamet",
+        "Nugroho, Aryo"
+    ],
+    "subject": [
+        "IoT",
+        "pdam",
+        "esp32"
+    ],
+    "description": [
+        "Various public service institutions have increasingly improved their service quality. The existing constraints are corrected for the sake of consumer satisfaction. One of the public services is the clean water distribution system at Surabaya water enterprise. The water will be distributed as per the postpaid-metered or prepaid-metered recording user's clean water consumption. Exisitng postpaid-metered or prepaid-metered device in every househould must be checked by field officers regularly. This manual checking often causing problems of human errors. This study applied the Internet of Things (IoT) concept in automatic checking of postpaid-metered and prepaid-metered device in households. The customized and automatic clean water consumption recording device is built using the ESP32 module. The ESP32 will send the rest of the water consumption data to the server (cloud). This method is expected to automate solution and to create better services to the customers. The accuracy of the test results holds error tolerance value of 10.6%, in the test results with units of mL. The device is believed to be able to provide and alternative in water usage recording purpose."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 4 No. 1 (2021): Jurnal RESISTOR Edisi April 2021; 1-10",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v4i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2021-04-21"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2021 Bayu saputra, Slamet Winardi, Aryo Nugroho",
+        "https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/588\/265"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

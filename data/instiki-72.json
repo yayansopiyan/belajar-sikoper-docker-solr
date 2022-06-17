@@ -1,0 +1,51 @@
+{
+    "id": "instiki-72",
+    "title": [
+        "IDENTIFIKASI CIRI PENYAKIT COVID 19  MENGGUNAKAN METODE WAVELET DEUBECHIES-2 "
+    ],
+    "creator": [
+        "Irtawaty, Andi Sri",
+        "Ulfah, Maria",
+        "Nurwahidah, Nurwahidah"
+    ],
+    "subject": [
+        "Covid 19",
+        "X-ray image",
+        "DB2 wavelet",
+        "kmeans",
+        "blood check"
+    ],
+    "description": [
+        "Coronavirus is a type of virus that can cause mild to severe illness. Transmission from animals to humans (zoonosis) and transmission from humans to humans is very limited. The main symptoms of Covid 19 are six, namely chills, chills, muscle aches, headaches, sore throats, and loss of sense of smell accompanied by a greater body temperature of 380C, Other symptoms such as skin rashes, dizziness and redness of the eyes. The incubation period is 2-14 days. This disease has become a pandemic, the number 1 cause of death in the world today. In this research, a process of identifying the characteristics of covid 19 will be carried out based on the appearance of lung X-ray images. There are 9 samples of lung X-ray images that will be identified by their characteristics. The image processing method used is the Wavelet Deubechies 2 (Wavelet DB2) method. The processing technique is by displaying images in binary format and displaying the values \u200b\u200bof approximation energy, horizontal energy, vertical energy, diagonal energy and the detailed energy of each lung image. Of the 9 sample images tested there were 4 samples of healthy lung images and 5 samples of lung images infected with the covid virus 19. It turned out that the energy value of healthy lung images was greater than the energy value of covid lung images 19. The accuracy of the method DB2 wavelet in identifying the characteristics of covid lung images 19 about 78%."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 4 No. 1 (2021): Jurnal RESISTOR Edisi April 2021; 45-50",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v4i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2021-04-21"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2020 Andi Sri Irtawaty, Maria Ulfah, Nurwahidah Nurwahidah",
+        "https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/705\/289"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

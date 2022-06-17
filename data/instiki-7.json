@@ -1,0 +1,46 @@
+{
+    "id": "instiki-7",
+    "title": [
+        "Integrasi Sistem Single Sign On Pada Sistem Informasi Akademik, Web Information System Dan Learning Management System Berbasis Central Authentication Service"
+    ],
+    "creator": [
+        "Udayana, I Putu Agus Eka Darma"
+    ],
+    "subject": [
+        "Single Sign On",
+        "LDAP",
+        "CAS"
+    ],
+    "description": [
+        "Elearning and web based information systems is a means to communicate and exchange information for academic purposes. &nbsp;Nowadays lightweight directory access protocol (LDAP) is a state of the art method of choice. With LDAP technologies user only need one username and password to access to multiple web based application, The problem is if the user wanted to do autentification said user had to input their credentials over and over again for each application. To solve that problem single sign on mechanism (SSO) is invented. With SSO user only need login once and they got all the same credentials with them to all intergrated application wthin the campus. To implement the SSO we use Central authentication service (CAS) as a authentifiation central within LDAP structure as a user management. In this reseach we see that single sign on (SSO) system that intergrated into student management system, E-Learning system and&nbsp; Internal blog system both use of database based system or even LDAP based system."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 1 No. 1 (2018): Jurnal RESISTOR Edisi April 2018; 48-54",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v1i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2018-04-21"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2018 I Putu Agus Eka Darma Udayana"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/265\/95"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

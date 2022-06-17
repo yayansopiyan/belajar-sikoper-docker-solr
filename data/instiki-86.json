@@ -1,0 +1,50 @@
+{
+    "id": "instiki-86",
+    "title": [
+        "IMPLEMENTASI DUA MODEL CROSSOVER PADA ALGORITMA GENETIKA UNTUK OPTIMASI PENGGUNAAN RUANG PERKULIAHAN"
+    ],
+    "creator": [
+        "Supriana, I Wayan",
+        "Raharja, Made Agung",
+        "Bimantara, I Made Satria",
+        "Bramantya, Devan"
+    ],
+    "subject": [
+        "Optimization",
+        "Genetic Algorithms",
+        "Lecture Rooms"
+    ],
+    "description": [
+        "The lecture mapping process is often hampered by the number and capacity of rooms, this condition often occurs because of the many obstacles that must be fulfilled. For example, there are courses offered in one semester that cannot be slots in space and time and the lecturer can teach at the same time for different courses. This is experienced by the Informatics Engineering Study Program of the Faculty of Mathematics and Natural Sciences, Udayana University, which offers a fairly large subject in each semester, causing optimization of the lecture space to often experience problems. The Genetic Algorithm (GA) is a model in the optimization of lecture space based on the natural selection mechanism through; coding problem, generate initial population, calculate fitness value, selection, crossover, mutation and optimal population. In this research, the optimization process implements two crossover models in the genetic algorithm, namely the n-point crossover and the cycle crossover. Based on the research that has been carried out, two crossover models provide optimal space usage mapping. From testing the n-point crossover model system gives the best fitness 1 in the 361 generation with a computation time of 11.08 while the cycle crossover model produces the best fitness 1 in the 361 generation with a computation time of 15.08."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 4 No. 2 (2021): Jurnal RESISTOR Edisi Oktober 2021; 167-177",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v4i2"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2021-10-28"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2021 I Wayan Supriana Supriana, Made Agung Raharja, I Made Satria Bimantara, Devan Bramantya",
+        "https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/758\/315"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

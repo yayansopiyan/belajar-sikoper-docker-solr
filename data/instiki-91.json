@@ -1,0 +1,50 @@
+{
+    "id": "instiki-91",
+    "title": [
+        "IMPLEMENTASI LORAWAN UNTUK MEMBANGUN KOMUNIKASI JARINGAN NELAYAN PERIKANAN TANGKAP MENGGUNAKAN KONSEP ARP PROTOCOL"
+    ],
+    "creator": [
+        "Ardyansah, Irwan",
+        "Hayati, Lilis Nur",
+        "Satra, Ramdan"
+    ],
+    "subject": [
+        "Komunikasi",
+        "Nelayan",
+        "ARP Protocol",
+        "LoRaWAN"
+    ],
+    "description": [
+        "Indonesia is known as a maritime country that has potential in the fisheries sector because the area of \u200b\u200bthe ocean is larger than land. The catch of Indonesian fishermen is still far behind that of China. One of the main obstacles is the lack of access to information and fast communication between fishermen regarding the location of fish clumps. This study designed a system that facilitates communication between fishermen at sea for information exchange, security, and supervision. This study uses LoRA communication technology which is a radio telecommunication device as a medium for sending text-based messages remotely and an android application as a user interface display using the LoRaWAN communication architecture and the ARP Protocol concept. The test of this research uses the black-box testing method which produces data on area coverage measurement; Bit Error Rate (BER); Packet Loss; Latency Analysis; and Battery Life. From 40 experiments conducted by sending text-based message packets between LoRa ESP32 devices remotely, there were no Packet Loss and Bit Error Rate (BER) in the received messages. Therefore, the application of the LoRaWAN communication architecture on the LoRa ESP32 device in building a remote capture fisheries communication system can be said to be successful."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 5 No. 1 (2022): Jurnal RESISTOR Edisi April 2022; 55-64",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v5i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2022-04-21"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2022 Irwan Ardyansah, Lilis Nur Hayati, Ramdan Satra",
+        "https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/821\/335"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

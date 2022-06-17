@@ -1,0 +1,51 @@
+{
+    "id": "instiki-58",
+    "title": [
+        "REKONTRUKSI MODEL 3D DARI BANYAK GAMBAR MENGGUNAKAN ALGORITMA STRUCTURE FROM MOTION (SFM) DAN MULTI VIEW STEREO (MVS) BERBASIS COMPUTER VISION"
+    ],
+    "creator": [
+        "Kholil, Moch.",
+        "Ismanto, Ismanto",
+        "Fu\u2019ad, M. Nur "
+    ],
+    "subject": [
+        "3D Reconstruction",
+        "SFM",
+        "MVS",
+        "Meshroom",
+        "Penataran Temple"
+    ],
+    "description": [
+        "With the development of the field of Information and Computer Technology (ICT), three-dimensional technology (3D) is also growing rapidly. Currently, the need to visualize 3D objects is widely used in animation and graphics applications, architecture, education, cultural recognition and virtual reality. 3D modeling of historical buildings has become a concern in recent years. 3D reconstruction is a documentation effort for reconstruction or restoration if the building is destroyed. By using a 3D model reconstruction approach based on multiple images using the Structure From Motion (SFM) and Multi View Stereo (MVS) algorithm, it is hoped that the 3D modeling results can be used as an effort to preserve 3D objects in the cultural heritage area of Penataran Temple. This research was conducted by taking an object in the form of photos as many as 61 pictures in the area of \u200b\u200bthe Blitar Penataran Temple. The resulting photos are reconstructed into a 3D model using the Structure From Motion algorithm in the meshroom. In this study, a test was carried out on the original image with the compressed image for reconstruction to be compared to the 3D reconstruction process from the two input data. From 61 images processed using the Structure Form Motion algorithm, 33 camera pose and 3D point data were obtained, both original and compressed images. For the number of iterations the compressed image is 1.4% less than the original image and takes 43.53% faster than the original image.\n\u00a0"
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 3 No. 2 (2020): Jurnal RESISTOR Edisi Oktober 2020; 108-113",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v3i2"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2020-10-28"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2020 Moch. Kholil, Ismanto Ismanto, M. Nur  Fu\u2019ad",
+        "https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/655\/230"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "instiki-24",
+    "title": [
+        "IMPLEMENTASI METODE LBS (LOCATION BASED SERVICE ) PADA PENCARIAN RUTE PANTI ASUHAN DI KOTA MAKASSAR"
+    ],
+    "creator": [
+        "Irawati"
+    ],
+    "subject": [
+        "Location search",
+        "LBS (Location Based Service)",
+        "Orphanage"
+    ],
+    "description": [
+        "Many people want to support the orphanage but still have difficulty getting accurate information about the orphanage and the location of the orphanage so they have to go to the social service office or by asking the community to get information about the local orphanage. This surely &nbsp;has an impact on the activities of donors who donates on a regular basis without knowing the conditions of other orphanages in the local area that are more likely to receive the donation. This application applies a Location Based Service (LBS) system that is able to detect the location of an orphanage, then can provide information services in accordance with the user's location. LBS is a location-based service, which is an internet-based service that is able to display position geographically from a smartphone or provide location information from the destined address. The aim of this research is to create an application that can provide information to donors through android about the location of orphanages in Makassar City with navigation features and display information related to orphanages to make it easier for donors to conclude which orphanages need more donations. This application can provide information for donors of android users to get convenience in finding and knowing the location of orphanages in the city of Makassar through an android mobile device to do donation activities."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 2 No. 1 (2019): Jurnal RESISTOR Edisi April 2019; 18-23",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v2i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2019-04-21"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2019 Irawati"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/360\/140"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

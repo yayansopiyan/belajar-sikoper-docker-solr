@@ -1,0 +1,47 @@
+{
+    "id": "instiki-36",
+    "title": [
+        "PREDIKSI HASIL PEMILU LEGISLATIF MENGGUNAKAN ALGORITMA K-NEAREST NEIGHBOR BERBASIS BACKWARD ELIMINATION "
+    ],
+    "creator": [
+        "Achmad Saiful Rizal",
+        "Moch. Lutfi"
+    ],
+    "subject": [
+        "Pemilu",
+        "K-Nearest Neighbor",
+        "Backward Elimination"
+    ],
+    "description": [
+        "Elections in Indonesia from period to period have undergone some changes. Elections legislative candidates not determined voters, but instead became a political elite authority in accordance with the order of the list of legislative candidates and their number sequence. To perform a prediction one of them with data mining. Data mining can be applied in the political sphere for example to predict the results of the legislative election and others. K-nearest neighbor algorithm is one of the data mining algorithm that performs classification based on learning object against which are closest to the object. Election-related research has been done with the k-nearest neighbor algorithm, but accuracy is obtained that method is still too low, so it takes an additional algorithm to improve accuracy. In this study, the proposed method, namely the method of k-nearest neighbor method combined with backward elimination as a selection of features. The dataset that will be used in the study comes from the KPU Sidoarjo that has special attributes 1 and 13 regular attributes. From the results of the analysis and computation of some methods, it can be concluded that the method of k-nearest neighbor method combined with backward elimination produced some conclusions. First, of the 14 attributes in the dataset, retrieved 8 most influential attribute. Second, the best accuracy are of 96.03% when k = 2 and tested by 10 fold cross validation."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 3 No. 1 (2020): Jurnal RESISTOR Edisi April 2020; 27-41",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v3i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2020-04-17"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2020 Achmad Saiful Rizal, Moch. Lutfi"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/517\/192"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

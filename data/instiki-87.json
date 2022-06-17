@@ -1,0 +1,50 @@
+{
+    "id": "instiki-87",
+    "title": [
+        "SAKLAR OTOMATIS BERBASIS MIKROKONTROLER UNTUK MENGURANGI PENGGUNAAN ENERGI LISTRIK"
+    ],
+    "creator": [
+        "Mahardiananta, I Made Agus",
+        "Nugraha,  I Made Aditya",
+        "Arimbawa, Putu Aries Ridhana ",
+        "Prayoga,  Dewa Ngakan Gde Tisna "
+    ],
+    "subject": [
+        "Passive Infrared Recivier Sensor",
+        "Automatic Switch",
+        "Electrical Energy"
+    ],
+    "description": [
+        "The use of electrical energy that is often encountered in households is leaving the house with the lights on, leaving electronic goods stuck in the socket, charging cell phones overnight and turning on the air conditioner when no one is around. This unwise behavior will result in a high increase in the use of electrical energy. To reduce this unwise behavior, a device will be made that functions as a switch to cut off electrical energy automatically when we leave the room. This tool uses an Arduino Uno microcontroller with a Passive Infrared Receiver sensor to flow electrical energy when we enter the room and cut off electrical energy when leaving the room. It can be concluded that the use of an automatic switch can reduce electrical energy consumption. Automatic switches with a delay of 20 seconds compared to conventional switches have a significant ratio of electrical energy consumption as indicated by the test results of a multiple ratio of 0.00 with a test level of less than 0.05. Using an automatic switch with a 20 second delay results in savings in electrical energy consumption of 48.76% of the electrical energy consumption using conventional switches."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 4 No. 1 (2021): Jurnal RESISTOR Edisi April 2021; 59-66",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v4i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2021-04-21"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2021 I Made Agus Mahardiananta",
+        "https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/759\/284"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

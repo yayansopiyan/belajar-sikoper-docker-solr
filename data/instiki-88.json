@@ -1,0 +1,48 @@
+{
+    "id": "instiki-88",
+    "title": [
+        "SINTESIS SUARA GAMELAN GERANTANG BALI MENGGUNAKAN METODE DOUBLE FREQUENCY MODULATION (DFM)"
+    ],
+    "creator": [
+        "Raharja, Made Agung ",
+        "Darmawan, I Dewa Made Bayu Atmaja"
+    ],
+    "subject": [
+        "Gerantang",
+        "Sintesis",
+        "Double Frequency Modulation"
+    ],
+    "description": [
+        "Cultural traditions from the life of the Balinese people have given birth to various types of things, ranging from dances, traditional clothing, music and traditional musical instruments. One of the gamelan instruments in Bali is Gerantang. Everyone does not have the ability to adjust the tone of the greantang blades, so that the process of making the bushes cannot be done by just anyone. In the field of sound \/ audio processing, there is a method called speech synthesis. One method that can be used in implementing music or tone synthesis is the Double Frequency Modulation (DFM) method. Tests that have been carried out in the synthesis process of gamelan grantang sound using the DFM method have been successfully carried out with a total of 55 test tone data and from 11 basic tones and frequencies of several synthetic sound experiments in the output column and in the results column show 10 output results are within tolerance limits frequency and 1 (one) tone out of tolerance. It was found that 10 tones that have been synthesized produce tones that have frequencies within the frequency tolerance limit with an accuracy of 90.9%"
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 4 No. 2 (2021): Jurnal RESISTOR Edisi Oktober 2021; 119-126",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v4i2"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2021-10-28"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2021 Made Agung  Raharja",
+        "https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/760\/310"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

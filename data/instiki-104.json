@@ -1,0 +1,49 @@
+{
+    "id": "instiki-104",
+    "title": [
+        "KNOWLEDGE BASED SYSTEM UNTUK REKOMENDASI DEWASA PENGABENAN PADA DESA ADAT MAMBAL"
+    ],
+    "creator": [
+        "Putra, I Putu Arya",
+        "Thalib, Emmy Febriani",
+        "Iswara, Ida Bagus Ary Indra"
+    ],
+    "subject": [
+        "dewasa pengabenan",
+        "mambal traditional village",
+        "knowledge based system"
+    ],
+    "description": [
+        "Applications for a good day to carry out the pengabenan ceremony of the mambal traditional village often encounter obstacles, with a process that is still manual, it certainly has a fairly high risk of error because it is caused by physical factors from a bendesa as an expert, including fatigue and forgetfulness. In this study, we will provide solutions to problems or obstacles experienced by the bendesa as an expert by designing and building a system that can represent a bendesa in the dewasa pengabenan application process by adopting the mindset of a bendesa in recommending dewasa pengabenan. The parameters used in this system consist of 54 conditions with 20 conditions that must be avoided. The parameters used are sasih, tri wara, panca wara, sapta wara, penanggal, panglong and wuku. The system that was built provides output in the form of recommendations for dewasa pengabenan, which are web-based, using the PHP framework Laravel programming language, and the database is managed with mysql. This system has been tested by the Bendesa as an expert and several users, the results obtained from the test can be concluded that the function of the features in the system is in accordance with what is expected"
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 5 No. 1 (2022): Jurnal RESISTOR Edisi April 2022; 103-108",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v5i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2022-04-21"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2022 I Putu Arya Putra, Emmy Febriani Thalib, Ida Bagus Ary Indra Iswara",
+        "https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/1091\/342"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

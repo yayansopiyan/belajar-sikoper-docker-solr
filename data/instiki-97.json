@@ -1,0 +1,51 @@
+{
+    "id": "instiki-97",
+    "title": [
+        "ANALISIS PERFORMA SISTEM KENDALI pH DAN TDS TERLARUT BERBASIS INTERNET OF THINGS PADA SISTEM HIDROPONIK DFT"
+    ],
+    "creator": [
+        "Pramartaningthyas, Ellys Kumala",
+        "Ma'shumah, Siti",
+        "Faud, M Ihsanul"
+    ],
+    "subject": [
+        "DFT",
+        "IoT",
+        "Hydroponic",
+        "ESP8266",
+        "Arduino"
+    ],
+    "description": [
+        "The Deep Flow Technique (DFT) hydroponic system is one of the techniques in the plant cultivation system with water media at the household level. In this hydroponic system installation, the nutrients that plants need are supplied using electric power with a relatively small circulation flow rate. In large-scale plant cultivation, it is very important to have a tool to monitor and evaluate two important components in hydroponic system cultivation, namely pH and TDS levels dissolved in water which are very decisive in the plant growth process. In this study, a pH and TDS monitoring system was fabricated on an IoT-based Deep Flow Technique (DFT) hydroponic system, and an analysis of the system's performance was carried out for cultivating kale. From the results of system testing, this system is able to control the acidity of water (Ph) with a value of 5.5 -6 and for dissolved TDS, the system is able to control automatically at 1050 ppm to 1400 ppm.\n&nbsp;"
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 5 No. 1 (2022): Jurnal RESISTOR Edisi April 2022; 1-9",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v5i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2022-04-21"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2022 Ellys Kumala Pramartaningthyas",
+        "https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/954\/329"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

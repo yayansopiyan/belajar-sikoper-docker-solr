@@ -1,0 +1,50 @@
+{
+    "id": "instiki-84",
+    "title": [
+        "IMPLEMENTASI ZONING DAN FITUR ARAH SEBAGAI EKSTRAKSI FITUR PADA PENGENALAN TULISAN TANGAN AKSARA BALI"
+    ],
+    "creator": [
+        "Wiguna, I Komang Arya Ganda",
+        "Asana, I Made Dwi Putra"
+    ],
+    "subject": [
+        "Support Vector Machine",
+        "Image Centroid Zone",
+        "Zone Centroid Zone",
+        "Chain Code",
+        "Balinese script"
+    ],
+    "description": [
+        "Character recognition is one of the most researched fields in computer science. Combining the field of digital image processing and pattern recognition is a challenge in determining the most optimal method combination to complete character recognition. Balinese script is one of the regional scripts used in Balinese literary. The challenge with Balinese script is that some of its characters have a degree of similarity. So far, several methods of feature extraction that have been studied for Balinese script are modified direction feature, template matching, image centroid zone and zone centroid zone, local binary pattern. In this research, we combine methods based on zoning and directional features. The methods used are ICZ, ZCZ and freeman chain code to find the characteristics of Balinese script handwriting. The addition of chain code method aims to determine the value around the foreground point. The results of feature extraction will be used as input in the Support Vector Machine for the classification process. The test result shows that the combination of the ICZ, ZCZ and freeman chain code methods produces an accuracy of 89.09%, while the combination of ICZ and ZCZ produces 88.06% of accuracy. The SVM kernels compared use linear kernels."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 4 No. 1 (2021): Jurnal RESISTOR Edisi April 2021; 85-92",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v4i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2021-04-21"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2021 I Komang Arya Ganda Wiguna, I Made Dwi Putra Asana",
+        "https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/751\/287"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "instiki-45",
+    "title": [
+        "RANCANG BANGUN PROTOTIPE KULKAS BERBASIS INTERNET OF THINGS (IoT) "
+    ],
+    "creator": [
+        "Surya, Agung",
+        "Winardi, Slamet "
+    ],
+    "subject": [
+        "IoT",
+        "Limit Switch",
+        "DHT11",
+        "Mobile Aplikasi"
+    ],
+    "description": [
+        "Various innovations have been developed in various sectors in industry, especially in the field of technology, one of which is the IoT (Internet of things) technology. The working principle of IOT is to control and monitor object equipped with sensors and connected to network that can later send data and even be able to communicate with other objects. One example is built prototype IOT-based refrigerator. The purpose of this study is to control the use of food ingredients (in the form of eggs and yakult) remotely. During this time users such as egg shops and yakult only receive the results sales and purchases of goods that have been made by employees, often the results of reports that are made are not in accordance with reality in the field. With these problems the authors make design of\u00a0 controller using the refrigerator (eggs and yakult) using the ESP8266 microcontroller, DHT11 to measure temperature, Limit Switch is used for the process of opening and closing the valve. From the results of this research, the results are able to provide information to users in real-time, where users can find out how many items (eggs and yakult) are available in the refrigerator through an application."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 4 No. 1 (2021): Jurnal RESISTOR Edisi April 2021; 11-17",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v4i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2021-04-21"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2021 Agung Surya",
+        "https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/596\/280"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

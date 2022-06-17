@@ -1,0 +1,53 @@
+{
+    "id": "instiki-70",
+    "title": [
+        "KLASIFIKASI FAKTOR PENYEBAB RENDAHNYA MINAT MAHASISWA DALAM MENULIS ARTIKEL ILMIAH"
+    ],
+    "creator": [
+        "Parhusip, Frskila",
+        "Windarto, Agus Perdana",
+        "Damanik, Irfan Sudahri",
+        "Irawan, Eka",
+        "Saragih, Ilham Syahputra"
+    ],
+    "subject": [
+        "Scientific Articles",
+        "Colleges",
+        "Students",
+        "Data Mining",
+        "C4.5 Algorithm"
+    ],
+    "description": [
+        "Scientific articles are scientific articles in the form of reviews and research to be published in reputable scientific articles. This is one of the main things that becomes a reference for students in higher education during their studies and at the end of their studies. then the problem that must be faced is how to classify the factor of low student interest and being able to increase student interest in writing scientific articles. The factors of low student interest in writing scientific articles are the level of understanding, motivation, difficulty level, time, and infrastructure. The data used comes from questionnaire data from students of the 2016 batch of information systems study program. It has been obtained that the factor classification of the low interest of students in writing scientific articles is the factor that has top priority on the factor of low student interest is the infrastructure. The results showed that the C4.5 Decision Tree Algorithm was accurate for classifying the factors of low student interest in writing scientific articles with an accuracy rate of 100%. "
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 4 No. 2 (2021): Jurnal RESISTOR Edisi Oktober 2021; 134-141",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v4i2"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2021-10-28"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2021 friskila parhusip",
+        "https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/700\/312"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

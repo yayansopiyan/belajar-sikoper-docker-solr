@@ -1,0 +1,52 @@
+{
+    "id": "instiki-64",
+    "title": [
+        "PENERAPAN SISTEM MONITORING DAN KENDALI PINTAR UNTUK TANAMAN TERUNG BERBASIS INTERNET OF THINGS DENGAN METODE PENYIRAMAN IRIGASI TETES"
+    ],
+    "creator": [
+        "Anugrah, Edi",
+        "Hasbi, Muhammad",
+        "Lukman, Musfirah Putri"
+    ],
+    "subject": [
+        "horticultural",
+        "arduino",
+        "Iot",
+        "Soil Moisture FC-28",
+        "DHT11",
+        "Blynk"
+    ],
+    "description": [
+        "Eggplant (Solanum melongena L.) is one of the horticultural crop products and vegetable crop commodities. Growth and quality are influenced by soil conditions, climate, and plant properties. The main source of agriculture is water and soil nutrients. This research applies a smart monitoring and control system for eggplant based on internet of things with the drip irrigation method. This system uses a NodeMCU V3 microcontroller as a controller for the aquatic and water pump. Besides using the Soil Moisture FC-28 sensor to measure soil moisture as an alternative to detect water availability in plants. DHT11 sensors are also given to monitor the temperature and humidity of the air around the plant. In the system there is a monitoring feature that can monitor air humidity, air temperature and soil moisture data. The system can automatically drip irrigation through the relay module when the soil moisture is below 50% and stop the watering process when it reaches 60% humidity. The sensor detection results can be monitored in the Blynk application and monitoring data, in the form of soil moisture, air temperature and air humidity, are saved to the database and can be downloaded in the format (.csv)."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 4 No. 2 (2021): Jurnal RESISTOR Edisi Oktober 2021; 204-212",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v4i2"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2021-10-28"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2021 Edi Anugrah",
+        "https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/669\/308"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

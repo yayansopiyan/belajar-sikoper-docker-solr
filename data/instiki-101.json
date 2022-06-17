@@ -1,0 +1,49 @@
+{
+    "id": "instiki-101",
+    "title": [
+        "RANCANG BANGUN CHILLER BERBASIS MIKROKONTROLER UNTUK EVAPORASI SENYAWA BAHAN ALAM"
+    ],
+    "creator": [
+        "Artini, Ni Putu Rahayu",
+        "Mahardiananta, I Made Agus",
+        "Nugraha, I Made Aditya"
+    ],
+    "subject": [
+        "chiller",
+        "evaporation",
+        "microcontroller"
+    ],
+    "description": [
+        "Chemical analysis uses a variety of solvents based on their level of polarity, such as non-polar, semipolar, and polar solvents. The solvent is used in the extraction process, both liquid-liquid extraction and solid-liquid extraction. Common extractions carried out in the fields of chemistry, pharmacy and other health sciences are solid-liquid extraction using samples in the form of simplicia from plants that are dried so that they become simplicia. Simplicia extracted with solvent. Extraction is carried out to concentrate the active compound and separate the solvent, so that it can be reused. Concentration was carried out using a rotary evaporator. A chiller-based rotary evaporator, namely a microcontroller-based chiller, is designed to accelerate temperature reduction, so that the evaporation and condensation process with the condenser is faster. Based on the results of the study, it was concluded that the chiller that was made was able to reduce the temperature of the water connected to the condenser section of the rotary evaporator and the heat from the waterbath with the duration of decreasing the temperature in the inlet-outlet reservoir between 183\u00b12.88 seconds to 302\u00b12.52 seconds from a water bath temperature of 40-600C."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 5 No. 1 (2022): Jurnal RESISTOR Edisi April 2022; 10-16",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v5i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2022-04-21"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2022 Ni Putu Rahayu Artini, I Made Agus Mahardiananta, I Made  Aditya Nugraha",
+        "https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/1082\/330"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

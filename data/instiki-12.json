@@ -1,0 +1,49 @@
+{
+    "id": "instiki-12",
+    "title": [
+        "SISTEM LAMPU OTOMATIS DENGAN SENSOR GERAK, SENSOR SUHU DAN SENSOR SUARA BERBASIS MIKROKONTROLER"
+    ],
+    "creator": [
+        "Lukman, Musfirah Putri",
+        "., Junaedy",
+        "Rieuwpassa, Yosua Friendly Yorendy"
+    ],
+    "subject": [
+        "automatic",
+        "movement",
+        "temperature",
+        "sound"
+    ],
+    "description": [
+        "This research aims to implement a movement sensor, temperature sensor dan sound sensor for turning on lamp automatically on public toilet. This system serves to automatically turning on the lamp when a person entering the toilet and also turning it back off when there is no one in the toilet. The hardwares used in this system are an Arduino Uno, a PIR movement sensor, a MLX90614 temperature sensor, a KY - 038 sound sensor, a relay, and a 3W LED lamp. Software used to built the program for this system is Arduino IDE where this software is using the C programming language. The final result from the test show that the PIR sensor can detect a person movement whether they are going in or out from the toilet while the KY - 038 sensor and MLX90614 sensor still have their weaknesses when trying to detect sound or temperature."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 1 No. 2 (2018): Jurnal RESISTOR Edisi Oktober 2018; 100-108",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v1i2"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2018-10-28"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2018 Musfirah Putri Lukman, Junaedy ., Yosua Friendly Yorendy Rieuwpassa"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/305\/120"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

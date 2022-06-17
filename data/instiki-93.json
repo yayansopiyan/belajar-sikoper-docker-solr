@@ -1,0 +1,52 @@
+{
+    "id": "instiki-93",
+    "title": [
+        "PEMODELAN SISTEM DETEKSI WAJAH SEBAGAI PENGHITUNG JUMLAH PENUMPANG TRANSPORTASI PUBLIK"
+    ],
+    "creator": [
+        "Mukti, Fransiska Sisilia",
+        "Farokhah, Lia",
+        "Aqromi, Nur Lailatul"
+    ],
+    "subject": [
+        "deteksi wajah",
+        "viola-jones",
+        "raspberry pi",
+        "penghitung jumlah penumpang otomatis",
+        "adaboost",
+        "cascade classifier"
+    ],
+    "description": [
+        "Bus is one of public transportation and as the most preferable by Indonesian to support their mobility. The high number of bus traffics then demands the bus management to provide the maximum service for their passenger, in order to gain public trust. Unfortunately, in the reality passenger list\u2019s fraud is often faced by the bus management, there is a mismatch list between the amount of deposits made by bus driver and the number of passengers carried by the bus, and as the result it caused big loss for the Bus management. Automatic Passenger Counting (APC) then as an artificial intelligence program that is considered to cope with the bus management problems. This research carried out an APC technology based on passenger face detection using the Viola-Jones method, which is integrated with an embedded system based on the Internet of Things in the processing and data transmission. To detect passenger images, a webcam is provided that is connected to the Raspberry pi which is then sent to the server via the Internet to be displayed on the website provided. The system database will be updated within a certain period of time, or according to the stop of the bus (the system can be adjusted according to management needs). The system will calculate the number of passengers automatically; the bus management can export passenger data whenever as they want. There are 3 main points in the architecture of modeling system, they are information system design, device architecture design, and face detection mechanism design to calculate the number of passengers. A system design test is carried out to assess the suitability of the system being built with company needs. Then, based on the questionnaire distributed to the respondent, averagely 85.12 % claim that the Face detection system is suitability. The score attained from 4 main aspects including interactivity, aesthetics, layout and personalization"
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 4 No. 1 (2021): Jurnal RESISTOR Edisi April 2021; 67-77",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v4i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2021-04-21"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2021 Fransiska Sisilia Mukti",
+        "https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/834\/285"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

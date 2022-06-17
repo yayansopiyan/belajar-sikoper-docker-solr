@@ -1,0 +1,48 @@
+{
+    "id": "instiki-28",
+    "title": [
+        "MODEL ALGORITMA RESILIENT BACKPROPAGATION DALAM MEMPREDIKSI EKSPOR BIJIH COKLAT MENURUT NEGARA TUJUAN UTAMA DALAM MENDORONG LAJU PERTUMBUHAN EKONOMI"
+    ],
+    "creator": [
+        "Neno, Sundari Retno Andani",
+        "Rafiqa, Rafiqa Dewi",
+        "Lihun, Solikhun"
+    ],
+    "subject": [
+        "Jaringan Saraf Tiruan",
+        "Backpropagation",
+        "Cocoa Beans"
+    ],
+    "description": [
+        "The purpose of this study predicts the export of brown ore according to the country the main objective in driving the pace of economic growth. Cocoa beans including plantation products are exported and are very profitable for Indonesia. However, the quality of cocoa beans exported by Indonesia is known to be low. The low quality of Indonesian cocoa is due to several reasons, including rare Indonesian cocoa beans which are fermented first. Indonesia is an exporter of cocoa beans. The government must be able to predict brown ore exports in the future so that the government can take steps or policies on how to make reliable strategies in an effort to increase the export of brown ore in the future. Backpropagation is one of the ANN models that has the ability to get a balance between the ability of the network to recognize patterns used during training and the ability of the network to respond correctly to input patterns that are similar (but not the same) to the patterns used during training. After a training experiment and testing of architectural models 12-4-1, 12-8-1, 8-12-1, and 8-16-1, the best architectural model was 12-12-1 with 100% accuracy."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 2 No. 2 (2019): Jurnal RESISTOR Edisi Oktober 2019; 67-75",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v2i2"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2019-10-28"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2019 Sundari Retno Andani Neno, Rafiqa Dewi Rafiqa, Solikhun Lihun"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/383\/169"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

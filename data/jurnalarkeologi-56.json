@@ -1,0 +1,48 @@
+{
+    "id": "jurnalarkeologi-56",
+    "title": [
+        "Sistem Informasi Arkeologi: Pangkalan Data Berbasis Daring Untuk Perekaman Data Artefak Tembikar Dan Keramik di Kawasan Percandian Muarajambi."
+    ],
+    "creator": [
+        "Pojoh, Ingrid H.E.",
+        "Sulistyowati, Dian",
+        "Nugraha, Arie",
+        "Caesario, Dicky"
+    ],
+    "subject": [
+        "Pangkalan data",
+        "Analisis tembikar",
+        "Analisis keramik",
+        "Perekaman data"
+    ],
+    "description": [
+        "Abstract. Archaeological Information System: Network-based Data Resource for Recording Pottery and Ceramic Artifacts Data in Muarajambi Temples. Archaeological data recording activitystill faces many problems related to the accessibility and availability of an integrated data recording system. Database system is one of the many other solutions to solve the problem. Data management and database content-making have shown integration between two different knowledge that created an instrument for data recording based on network, which is a way to communicate where messages are delivered online. For users, this application can be a media for doing research. As for the filler, this database system becomes a data recording instrument which works effectively and efficiently. Forstudents, this database system can also help to increase the analysis ability. This activity focuses on making a network-based database system for pottery and ceramic artifacts from Muarajambi temples.\u00a0Abstrak. Kegiatan perekaman data arkeologi sampai sekarang masih menjadi permasalahan tersendiri baik dari segi keterbukaan informasi maupun ketersediaan sarana perekaman data yang terintegrasi. Sistem pangkalan data merupakan salah satu pemecahan mengenai permasalahantersebut. Manajemen data dan pembuatan konten pangkalan data menunjukan integrasi dari dua ilmu yang berbeda sehingga dapat menghasilkan suatu instrumen perekaman data berbasis dalam jaringan (daring), yaitu suatu cara berkomunikasi yang penyampaian dan penerimaan pesan dilakukan dengan atau melalui jaringan internet. Untuk pengguna, aplikasi ini dapat berfungsi sebagai wadah untukmelakukan penjajakan dalam rangka melakukan penelitian. Untuk pengisi, pangkalan data ini merupakan salah satu instrumen perekaman data yang dapat menghemat waktu dan tenaga. Untuk mahasiswa, pangkalan data ini juga merupakan sarana pembelajaran untuk mempertajam kemampuananalisis. Kegiatan ini berfokus pada pembuatan sistem pangkalan data berbasis daring untuk temuantemuantembikar dan keramik yang ditemukan di Kawasan Percandian Muarajambi."
+    ],
+    "format": [
+        ""
+    ],
+    "source": [
+        "AMERTA; Vol. 33 No. 2 (2015); 77-84",
+        "2549-8908",
+        "0215-1324"
+    ],
+    "publisher": [
+        "Pusat Penelitian Arkeologi Nasional"
+    ],
+    "date": [
+        "2015-11-30"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2017 AMERTA"
+    ],
+    "relation": [
+        "http:\/\/jurnalarkeologi.kemdikbud.go.id\/index.php\/amerta\/article\/view\/216\/140"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion"
+    ]
+}

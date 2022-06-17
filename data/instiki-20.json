@@ -1,0 +1,47 @@
+{
+    "id": "instiki-20",
+    "title": [
+        "PENERAPAN MODUL PEMBELIAN PADA INDUSTRI MANUFAKTUR INTERIOR RUMAH DENGAN MENGGUNAKAN ERPNEXT"
+    ],
+    "creator": [
+        "Pratama, I Putu Agus Eka",
+        "Robiulla, Isna Wanda"
+    ],
+    "subject": [
+        "Enterprise Resource Planning",
+        "Purchasing Module",
+        "ERPNext"
+    ],
+    "description": [
+        "The development of business in this globalization era has led to increasingly a competition, the application of IT in business today isn\u00e2\u20ac\u2122t enough, therefore a company needs enterprise resource planning (ERP) to keep the company's cycle spinning amid global competition. Now ERP not only be applied to large companies,UKM\/UMKM Currently can use ERP to run the business process. Unfortunately, the company doesn\u00e2\u20ac\u2122t understand the importance of ERP and the benefits of ERP, including CV Rumah Indah, a home interior company, which is a case study in this journal. CV Rumah Indah still applies conventional business processes which are all done manually. Even though in practice the business owner encounters several obstacles in the distribution of raw materials, the distance between the production house and the supplier, and there is one raw material that is difficult to obtain if supplier\u00e2\u20ac\u2122s stock runs out so the company must be waiting till the materials available. It takes the business owner have to go back to the supplier to take orders for the raw material that was ordered on the previous visit, besides that the interior production time becomes delayed. Therefore, the author took initiative to provide a solution of the problems faced by business owners, the solution is applying the purchase module on ERP using the open source ERPNext software. Hope that implementation of ERP being able to help in the effectiveness and time efficiency when purchasing raw materials to suppliers."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 2 No. 1 (2019): Jurnal RESISTOR Edisi April 2019; 41-47",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v2i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2019-04-21"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2019 I Putu Agus Eka Pratama, Isna Wanda Robiulla"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/350\/145"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

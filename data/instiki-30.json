@@ -1,0 +1,49 @@
+{
+    "id": "instiki-30",
+    "title": [
+        "PENANGANAN DATA MISSING VALUE PADA KUALITAS PRODUKSI JAGUNG DENGAN MENGGUNAKAN METODE K-NN IMPUTATION PADA ALGORITMA C4.5"
+    ],
+    "creator": [
+        "Moch. Lutfi",
+        "Mochamad Hasyim"
+    ],
+    "subject": [
+        "Data Mining",
+        "K-NN imputation",
+        "C 4.5",
+        "Quality of Corn Production",
+        "Missing Value"
+    ],
+    "description": [
+        "Corn is a staple crop for Indonesian people because most of his life is from the agriculture sector. To increase the productivity of corn, another thing to be aware of is looking at the quality of the corn products. Through empirical observation and observation, research explores and extracts data through the concept of data mining so that neglected data becomes useful. Thus determining the quality of corn production is an important task to help the farmers in determining the classification process. Missing value is a problem in maintaining a quality data. Missing value can be caused by several things, one of which is caused by an error at the time of data entry. Missing value will be a problem when the amount of data in large quantities, so it is very influential in the survey results. Therefore on this research proposed K-NN imputation method to handle missing value data. The results showed the accuracy of the C 4.5 algorithm classification process on the corn production dataset that experienced a missing value accuracy value of 92.90%. Whereas if done with special handling using the method K-NN imputation on the handling process missing value best value at k = 5 of 94.50% with this that the proposed method increases significantly."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 2 No. 2 (2019): Jurnal RESISTOR Edisi Oktober 2019; 89-104",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v2i2"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2019-10-28"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2019 Moch. Lutfi, Mochamad Hasyim"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/427\/167"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

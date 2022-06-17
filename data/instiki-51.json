@@ -1,0 +1,51 @@
+{
+    "id": "instiki-51",
+    "title": [
+        "ANALISIS FORENSIK UNTUK MENDETEKSI KEASLIAN CITRA DIGITAL MENGGUNAKAN METODE NIST"
+    ],
+    "creator": [
+        "Khairunnisak, Khairunnisak",
+        "Ashari, Hamid",
+        "Kuncoro, Adam Prayogo"
+    ],
+    "subject": [
+        "Video Forensic",
+        "Digital Forensic",
+        "NIST",
+        "Digital Evidence",
+        "Metadata"
+    ],
+    "description": [
+        "Currently, the changes in image quality resulting a low-resolution images, faded colors, and so on. This condition potentially attract irresponsible parties to take advantage of the situation for certain purposes. Nowadays, it is very easy for people to manipulate, change, or delete the original information from a digital image thus cause the authenticity and integrity of the image to be doubted. This study is conducted in a specific objective to prove the authenticity of a digital evidence for analysis by providing detailed illustrations of the role of Digital Forensics in accordance with applicable legal regulations in Indonesia using the NIST workflow. The research flow begins with uncovering the background of the problem, collecting data, making scenarios, applying the NIST method, and making conclusions. The illustration used in the scenario is a video inserted into a digital evidence. The video used in this research is the Cyanide Coffee Case with the suspect Wayan Mirna Salihin, happened in August 16, 2016 which was uploaded by Kompas TV channel on Youtube. The NIST analysis phases used several tools: Exiftools, Forevid, and Video Cleaner. The result indicates that all phases in the NIST method are correlated to each other. The result is specifically very clear in the collection phase. The discovery of hidden information causes the examination and analysis process to be more complex especially the extraction process of digital evidence in the form of images. Indeed, the use of various tools are more helpful in disclosing the existing information. This information can be seen from the results of metadata, hash value, and image sharpness from the analyzed digital evidence."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 3 No. 2 (2020): Jurnal RESISTOR Edisi Oktober 2020; 72-81",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v3i2"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2020-10-28"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2020 Khairunnisak, Hamid Ashari, Adam Prayogo Kuncoro",
+        "https:\/\/creativecommons.org\/licenses\/by-nc-sa\/4.0"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/634\/228"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}

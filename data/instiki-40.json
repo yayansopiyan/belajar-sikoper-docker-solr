@@ -1,0 +1,50 @@
+{
+    "id": "instiki-40",
+    "title": [
+        "SISTEM PERINGATAN KETINGGIAN AIR DAN KENDALI TEMUKU (PINTU AIR) UNTUK IRIGASI SAWAH"
+    ],
+    "creator": [
+        "Desnanjaya, I Gusti Made Ngurah",
+        "I Gede Pandy Sastrawan",
+        "I Wayan Dani Pranata"
+    ],
+    "subject": [
+        "Sms",
+        "Arduino",
+        "Ultrasonic",
+        "SIm 900",
+        "Temuku"
+    ],
+    "description": [
+        "The irrigation system in rainfed lowland is done through a water gate (Temuku). Farmers should always control the height of the water and wetland gates during the dry and rainy seasons. This is due to delays in control which can cause the fields to dry or flooded. In this research, water warning system and Temuku control (water gate) for irrigation of paddy field. This tool can provide water level information and can also close or open the irrigation water gate through an SMS. Components used in the manufacture of water alert warning systems and the control of Temuku (sluice gates) for irrigation rice fields are arduino UNO, ultrasonic sensors, SIM 900 and servo motors. From the results of tests that have been done, it can be concluded that the system of water warning and control of Temuku (sluice gate) for irrigation of paddy field has been able to provide water level information to farmers and also the system has been able to control the irrigation water gate according to the input given by SMS."
+    ],
+    "format": [
+        "application\/pdf"
+    ],
+    "source": [
+        "Jurnal RESISTOR (Rekayasa Sistem Komputer); Vol. 3 No. 1 (2020): Jurnal RESISTOR Edisi April 2020; 1-12",
+        "2598-9650",
+        "2598-7542",
+        "10.31598\/jurnalresistor.v3i1"
+    ],
+    "publisher": [
+        "LPPM STMIK STIKOM Indonesia"
+    ],
+    "date": [
+        "2020-04-17"
+    ],
+    "language": [
+        "eng"
+    ],
+    "rights": [
+        "Copyright (c) 2020 I Gusti Made Ngurah Desnanjaya, I Gede Pandy Sastrawan, I Wayan Dani Pranata"
+    ],
+    "relation": [
+        "https:\/\/jurnal.instiki.ac.id\/index.php\/jurnalresistor\/article\/view\/560\/196"
+    ],
+    "type": [
+        "info:eu-repo\/semantics\/article",
+        "info:eu-repo\/semantics\/publishedVersion",
+        "Peer-reviewed Article"
+    ]
+}
